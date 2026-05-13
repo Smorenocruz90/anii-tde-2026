@@ -37,7 +37,7 @@ La propuesta se mapea uno-a-uno con las sub-secciones del formulario online ANII
 
 ## Archivo fuente
 
-El archivo de origen vive en la raíz del proyecto: [`propuesta_v2_consolidada.md`](https://github.com/REPLACE_ME/ANII/blob/main/propuesta_v2_consolidada.md).
+El archivo de origen vive en la raíz del proyecto: [`propuesta_v2_consolidada.md`](https://github.com/Smorenocruz90/anii-tde-2026/blob/main/propuesta_v2_consolidada.md).
 
 Está versionado con git; cada cambio queda trazado y se puede comparar entre commits.
 
