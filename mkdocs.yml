@@ -42,7 +42,11 @@ theme:
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -75,6 +79,11 @@ plugins:
 
 nav:
   - Inicio: index.md
+  - Tablero de control:
+    - tablero/index.md
+    - tablero/checklist-anii.md
+    - tablero/kanban.md
+    - tablero/decisiones.md
   - El proyecto:
     - el-proyecto/que-es.md
     - el-proyecto/por-que-importa.md
@@ -103,6 +112,9 @@ nav:
     - referencias/glosario.md
     - referencias/bibliografia.md
     - referencias/enlaces.md
+
+extra_css:
+  - stylesheets/dashboard.css
 
 extra:
   generator: false

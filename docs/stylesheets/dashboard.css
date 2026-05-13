@@ -1,0 +1,256 @@
+/* === KPI Cards === */
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.kpi-card {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  text-align: left;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.kpi-card .kpi-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 0.25rem;
+}
+
+.kpi-card .kpi-value {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: var(--md-primary-fg-color);
+}
+
+.kpi-card .kpi-sub {
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.25rem;
+}
+
+.kpi-card.danger .kpi-value { color: #d32f2f; }
+.kpi-card.warning .kpi-value { color: #ed6c02; }
+.kpi-card.success .kpi-value { color: #2e7d32; }
+.kpi-card.info .kpi-value { color: #0288d1; }
+
+/* === Countdown === */
+
+.countdown-hero {
+  background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, #4527a0 100%);
+  color: white;
+  border-radius: 0.75rem;
+  padding: 2rem 2.5rem;
+  margin: 1.5rem 0 2rem 0;
+  text-align: center;
+}
+
+.countdown-hero .label {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.85;
+}
+
+.countdown-hero .days {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1;
+  margin: 0.5rem 0;
+}
+
+.countdown-hero .deadline {
+  font-size: 1.1rem;
+  opacity: 0.95;
+}
+
+/* === Kanban === */
+
+.kanban-board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 768px) {
+  .kanban-board {
+    grid-template-columns: 1fr;
+  }
+}
+
+.kanban-col {
+  background: var(--md-code-bg-color);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  min-height: 200px;
+}
+
+.kanban-col h3 {
+  margin: 0 0 0.75rem 0 !important;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--md-default-fg-color--lightest);
+}
+
+.kanban-col.todo h3 { border-color: #d32f2f; }
+.kanban-col.doing h3 { border-color: #ed6c02; }
+.kanban-col.done h3 { border-color: #2e7d32; }
+
+.kanban-card {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.4rem;
+  padding: 0.75rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.9rem;
+}
+
+.kanban-card .who {
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: var(--md-primary-fg-color);
+}
+
+.kanban-card .what {
+  margin: 0.25rem 0;
+}
+
+.kanban-card .when {
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.kanban-card.critical {
+  border-left: 4px solid #d32f2f;
+}
+
+.kanban-card.major {
+  border-left: 4px solid #ed6c02;
+}
+
+/* === Status Badges === */
+
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+}
+
+.badge-done { background: #e8f5e9; color: #2e7d32; }
+.badge-doing { background: #fff8e1; color: #ed6c02; }
+.badge-todo { background: #ffebee; color: #c62828; }
+.badge-blocked { background: #ede7f6; color: #5e35b1; }
+.badge-info { background: #e3f2fd; color: #0288d1; }
+
+[data-md-color-scheme="slate"] .badge-done { background: #1b3a1f; color: #81c784; }
+[data-md-color-scheme="slate"] .badge-doing { background: #4a2c00; color: #ffb74d; }
+[data-md-color-scheme="slate"] .badge-todo { background: #3a1212; color: #ef5350; }
+[data-md-color-scheme="slate"] .badge-blocked { background: #2a1d4d; color: #b39ddb; }
+[data-md-color-scheme="slate"] .badge-info { background: #0d2c40; color: #4fc3f7; }
+
+/* === Progress Bars === */
+
+.progress {
+  background: var(--md-default-fg-color--lightest);
+  border-radius: 0.25rem;
+  height: 0.5rem;
+  overflow: hidden;
+  margin: 0.25rem 0;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--md-primary-fg-color), var(--md-accent-fg-color));
+  transition: width 0.3s ease;
+}
+
+/* === Person cards === */
+
+.person-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.person-card {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  text-align: center;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  text-decoration: none !important;
+}
+
+.person-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.person-card .avatar {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.person-card .name {
+  font-weight: 700;
+  color: var(--md-default-fg-color);
+}
+
+.person-card .role {
+  font-size: 0.78rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.25rem;
+}
+
+.person-card .pending {
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  color: #c62828;
+  font-weight: 600;
+}
+
+/* === Mermaid containers === */
+
+.mermaid {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+/* === Status icons inline === */
+
+.status-icon {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 0.4rem;
+}
+
+.status-icon.green { background: #2e7d32; }
+.status-icon.yellow { background: #f9a825; }
+.status-icon.red { background: #c62828; }
+.status-icon.gray { background: #757575; }

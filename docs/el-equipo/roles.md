@@ -1,5 +1,29 @@
 # El equipo y los roles
 
+## Vista esquemática
+
+```mermaid
+graph TD
+    PROJ([Proyecto ANII TDE_1_2026])
+
+    PROJ --> CRT[<b>Critertec Educación</b><br/>Organización proponente]
+    PROJ --> UNI[<b>Universidad partner</b><br/>🔴 a confirmar<br/>IRB + honest broker]
+
+    CRT --> BER[👩‍🏫 <b>Berenice</b><br/>PI técnico-científica<br/>PhD · 9 años post-doc]
+    CRT --> SEB[👨‍💼 <b>Sebas</b><br/>Co-PI · Lead operativo<br/>CEO Critertec]
+    CRT --> AGU[👩‍🎨 <b>Agus</b><br/>Pedagogía + producto + UX]
+    CRT --> STE[👨‍💻 <b>Steven</b><br/>Data engineering<br/>Captura del log]
+    CRT --> JR[🎓 <b>Junior</b><br/>A contratar<br/>Codificación + análisis]
+
+    SEB -.coordina.-> SOY[<b>Soy Digital</b><br/>MINERD · INDOTEL · BID<br/>Acceso a cohorte]
+
+    UNI -.analiza dataset.-> ANAL[Análisis sensibles:<br/>LCA · bivariadas · kappa]
+
+    style UNI fill:#ffebee,stroke:#c62828,stroke-dasharray: 5 5
+    style SOY fill:#e8f5e9
+    style ANAL fill:#e3f2fd
+```
+
 ## Quién es cada quién
 
 | Nombre | Rol en el proyecto | Página personal |

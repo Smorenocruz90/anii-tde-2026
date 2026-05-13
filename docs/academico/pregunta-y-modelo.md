@@ -23,6 +23,27 @@
 !!! warning "Atención: descriptivo-organizativo, no causal"
     Los niveles son **lentes analíticas** para diferenciar evidencias heterogéneas, **no fases obligatorias** ni teoría causal del cambio. Una docente puede estar en Nivel 2 sin alcanzar Nivel 3. No se asume progresión lineal.
 
+### Vista esquemática
+
+```mermaid
+graph LR
+    N1["<b>N1 · Acceso</b><br/>📥<br/>Log: apertura<br/>+ SJT-POV"]
+    N2["<b>N2 · Interacción</b><br/>🔀<br/>Log: navegación<br/>+ selección"]
+    N3["<b>N3 · Intervención<br/>reflexiva</b><br/>🧠<br/>Log: códigos<br/>metacognitivos"]
+    N4["<b>N4 · Transferencia<br/>al aula</b><br/>🏫<br/>Mini-retos<br/>+ entrevistas"]
+    N5["<b>N5 · Apropiación</b><br/>📈<br/>Δ escalas<br/>pre-post"]
+
+    N1 -.- N2 -.- N3 -.- N4 -.- N5
+
+    style N1 fill:#e3f2fd,stroke:#1976d2
+    style N2 fill:#bbdefb,stroke:#1976d2
+    style N3 fill:#90caf9,stroke:#1565c0
+    style N4 fill:#64b5f6,stroke:#1565c0
+    style N5 fill:#42a5f5,stroke:#0d47a1,color:#fff
+```
+
+*Las líneas punteadas indican relación de orden conceptual entre lentes de observación, no progresión causal entre fases. El análisis cuantitativo se ejecuta sobre N2-N3 (proceso) y se asocia bivariadamente con N4-N5 (outcomes).*
+
 ### Tabla de niveles
 
 | Nivel | Definición operativa | Indicador(es) | Instrumento | Momento |

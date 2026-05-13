@@ -17,6 +17,21 @@
 
 ### Lo que captura el cuaderno
 
+```mermaid
+graph LR
+    DOC([👩‍🏫 Docente]) -- "lee, marca,<br/>comenta, dibuja" --> CUAD[/Cuaderno digital<br/>instrumentado/]
+    CUAD -- "evento append-only" --> LOG[(NotebookEvent log<br/>anonimizado)]
+    LOG -- "M6: dataset cerrado" --> HB[🎓 Honest broker<br/>Universidad partner]
+    HB -- "ejecuta análisis<br/>sensibles" --> RES[📊 Tipologías<br/>+ asociaciones]
+    DOC -. "mini-retos<br/>quincenales" .-> AULA[🏫 Evidencia<br/>del aula]
+    AULA -. "M6 entrevistas<br/>sub-muestra N=18" .-> RES
+
+    style DOC fill:#fff3e0
+    style HB fill:#e8f5e9
+    style RES fill:#e3f2fd
+    style AULA fill:#fce4ec
+```
+
 Cada acción genera un **evento** en un log con marca temporal anonimizada. Eso nos permite reconstruir el recorrido cognitivo de cada docente — cuándo abrió el capítulo, cuánto tardó en su primera marca, qué orden siguió, cuántas veces volvió a un mismo bloque.
 
 ```

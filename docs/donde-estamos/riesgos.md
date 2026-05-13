@@ -15,6 +15,33 @@
 
 ---
 
+## Flujo de mitigación del CoI estructural
+
+```mermaid
+graph TD
+    PROD["🏷️ Cuaderno digital<br/>= producto comercial<br/>de Critertec"]
+    RIESGO{"❓ Validación del<br/>propio producto?"}
+    PROD --> RIESGO
+
+    RIESGO -- "mitigación actual v2.0" --> M1["✅ Honest broker análisis<br/>✅ Pre-registro OSF<br/>✅ Dataset abierto CC-BY-NC<br/>✅ Categorías ancladas en lit externa"]
+    RIESGO -- "recomendación del panel" --> M2["➕ Design lock por universidad<br/>o comité asesor externo<br/>de 3 expertos no afiliados"]
+
+    M1 --> ANAL["Cubre: análisis ✅"]
+    M1 --> DIS["No cubre: diseño ❌"]
+    M2 --> COMPLETO["Cubre: análisis + diseño ✅"]
+
+    DIS -.requiere.-> M2
+
+    style PROD fill:#fff3e0
+    style RIESGO fill:#ffebee
+    style M1 fill:#e8f5e9
+    style M2 fill:#e3f2fd
+    style DIS fill:#ffebee,stroke:#c62828
+    style COMPLETO fill:#c8e6c9,stroke:#2e7d32
+```
+
+---
+
 ## 1. Conflicto de interés estructural en el diseño
 
 ??? quote "Lo que dijo el panel adversarial"

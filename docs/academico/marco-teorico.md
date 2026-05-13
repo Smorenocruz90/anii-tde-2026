@@ -1,5 +1,31 @@
 # Marco teórico
 
+## Vista esquemática
+
+```mermaid
+mindmap
+  root((4 categorías<br/>de marcado))
+    🟡 Importante
+      Anotación activa
+      Adler & Van Doren 1972
+      Marshall 1997
+      Kintsch 1998
+    🔵 Duda
+      Monitoreo metacognitivo
+      Flavell 1979
+      Nelson & Narens 1990
+      Schraw & Moshman 1995
+    🟣 Inspiración
+      Engagement afectivo
+      Fredricks et al. 2004
+      O'Hara & Sellen 1997
+    🟢 Insight
+      Cognición de insight
+      Köhler 1925
+      Kounios & Beeman 2014
+      Kintsch 1998
+```
+
 ## La idea matriz
 
 Las cuatro categorías de marcado del cuaderno digital están ancladas en **cuatro tradiciones teóricas independientes** con literatura clásica desde 1925. Esto blinda al instrumento contra la crítica de que las categorías son arbitrarias o derivadas del producto comercial.

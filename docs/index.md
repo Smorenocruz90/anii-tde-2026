@@ -4,88 +4,128 @@ hide:
   - toc
 ---
 
-# Proyecto ANII — Cuaderno digital docente
+# Dashboard — Proyecto ANII TDE_1_2026
 
-!!! quote ""
-    **Investigamos cómo las docentes dominicanas intervienen un material formativo digital sobre inteligencia artificial cuando se les ofrece un cuaderno digital instrumentado. Capturamos esa intervención como dato observable, no como autorreporte, y la liberamos como protocolo abierto.**
+<div class="countdown-hero" markdown>
+  <div class="label">Cierre de postulación ANII</div>
+  <div class="days">29</div>
+  <div class="deadline">días — 11 jun 2026 · 14:00 GMT-3</div>
+</div>
 
----
+## Estado en 4 indicadores
 
-## Lectura de 30 segundos
+<div class="kpi-grid" markdown>
 
-- **Quién postula:** Critertec Educación, en alianza con una universidad partner (por confirmar)
-- **A quién:** ANII Uruguay + Fundación Ceibal, convocatoria TDE_1_2026, línea D.II
-- **Cuánto:** USD 50.000
-- **Cuándo:** ejecución oct 2026 – jun 2027 (6 + 3 meses de prórroga)
-- **Dónde:** República Dominicana
-- **Cuántas docentes:** 120 (N final esperado ~80, post-mortalidad)
-- **Cierre de postulación:** **11 jun 2026 14:00 GMT-3** :material-clock-alert-outline:
+<div class="kpi-card success" markdown>
+  <div class="kpi-label">Redacción propuesta</div>
+  <div class="kpi-value">95%</div>
+  <div class="kpi-sub">15/15 textareas + 3 tablas listas · pendiente Sección 5 Presupuesto</div>
+</div>
 
----
+<div class="kpi-card danger" markdown>
+  <div class="kpi-label">Riesgos críticos abiertos</div>
+  <div class="kpi-value">5</div>
+  <div class="kpi-sub">CoI estructural · LCA con N≈80 · Universidad partner · Presupuesto · Cronograma</div>
+</div>
 
-## Lo que tenés que saber, en orden
+<div class="kpi-card warning" markdown>
+  <div class="kpi-label">Tareas críticas pendientes</div>
+  <div class="kpi-value">12</div>
+  <div class="kpi-sub">6 con plazo en 7 días · 6 con plazo en 21 días</div>
+</div>
 
-<div class="grid cards" markdown>
-
--   :material-flag-checkered:{ .lg } **El proyecto**
-
-    ---
-
-    Qué hacemos, por qué importa, cómo funciona
-
-    [:octicons-arrow-right-24: Empezar](el-proyecto/que-es.md)
-
--   :material-account-group:{ .lg } **El equipo**
-
-    ---
-
-    Quién hace qué — encontrá tu sección
-
-    [:octicons-arrow-right-24: Tu rol](el-equipo/roles.md)
-
--   :material-progress-check:{ .lg } **Dónde estamos**
-
-    ---
-
-    Estado actual, fortalezas, riesgos, tareas pendientes
-
-    [:octicons-arrow-right-24: Estado v2.0](donde-estamos/estado.md)
-
--   :material-book-open-variant:{ .lg } **Profundización académica**
-
-    ---
-
-    Propuesta completa, marco teórico, metodología, review del panel
-
-    [:octicons-arrow-right-24: Profundizar](academico/propuesta-completa.md)
+<div class="kpi-card info" markdown>
+  <div class="kpi-label">Veredicto panel /review-grant</div>
+  <div class="kpi-value">⚠</div>
+  <div class="kpi-sub"><strong>Substantial revision required</strong> — no fundable tal como está</div>
+</div>
 
 </div>
 
----
+## Tu siguiente paso (por persona)
 
-## Estado en una línea
+<div class="person-grid" markdown>
 
-!!! warning "Veredicto del panel de revisión (13 may 2026)"
-    **Substantial revision required** — la propuesta está discutible con revisiones pero **no fundable en su estado actual**. Hay 5 riesgos críticos que pueden hundir la propuesta si no se corrigen antes del 11 jun.
+[<div class="avatar">👩‍🏫</div><div class="name">Berenice</div><div class="role">PI · PhD</div><div class="pending">3 decisiones críticas</div>](el-equipo/berenice.md){ .person-card }
 
-    :material-arrow-right: Mirá [Riesgos](donde-estamos/riesgos.md) y [Tareas pendientes](donde-estamos/tareas.md) para entender qué falta y quién hace qué.
+[<div class="avatar">👨‍💼</div><div class="name">Sebas</div><div class="role">Co-PI · Lead operativo</div><div class="pending">4 bloqueantes esta semana</div>](el-equipo/sebas.md){ .person-card }
 
-!!! success "Lo que está sólido"
-    Anclaje teórico, arquitectura ética, acceso institucional a Soy Digital, calibración de overclaim, framing del caso dominicano.
+[<div class="avatar">👩‍🎨</div><div class="name">Agus</div><div class="role">Pedagogía · Producto</div><div class="pending">2 entregas para 31 may</div>](el-equipo/agus.md){ .person-card }
 
-    :material-arrow-right: Mirá [Fortalezas](donde-estamos/fortalezas.md) para argumentos de defensa.
+[<div class="avatar">👨‍💻</div><div class="name">Steven</div><div class="role">Data engineering</div><div class="pending">ADR pendiente</div>](el-equipo/steven.md){ .person-card }
 
----
+[<div class="avatar">🎓</div><div class="name">Junior</div><div class="role">A contratar</div><div class="pending">M0 oct 2026</div>](el-equipo/junior.md){ .person-card }
 
-## ¿Cómo navegar este sitio?
+</div>
 
-- Cada sección está pensada para **leerse rápido**. Si querés más detalle, hay bloques expandibles ("Click para profundizar") y enlaces a la sección académica.
-- La barra lateral tiene la navegación completa. Arriba está la búsqueda.
-- El modo oscuro está en el ícono :material-brightness-7: arriba a la derecha.
+## Tablero de control
+
+<div class="grid cards" markdown>
+
+-   :material-clipboard-check-outline:{ .lg } **[Checklist formulario ANII →](tablero/checklist-anii.md)**
+
+    ---
+
+    Status de cada sub-sección del formulario online. Qué está cargado, qué falta, qué bloquea.
+
+-   :material-view-column:{ .lg } **[Kanban de tareas →](tablero/kanban.md)**
+
+    ---
+
+    Vista por estado (To Do / Doing / Done) y por persona. Plazos visibles.
+
+-   :material-decision:{ .lg } **[Decisiones →](tablero/decisiones.md)**
+
+    ---
+
+    Decisiones tomadas + decisiones pendientes con decisor y plazo.
+
+-   :material-progress-clock:{ .lg } **[Estado del proyecto →](donde-estamos/estado.md)**
+
+    ---
+
+    Dashboard expandido con cobertura completa.
+
+</div>
+
+## Profundización
+
+<div class="grid cards" markdown>
+
+-   :material-flag-checkered:{ .lg } **[El proyecto](el-proyecto/que-es.md)**
+
+    ---
+
+    Qué hacemos, por qué importa, cómo funciona, cronograma
+
+-   :material-alert-circle:{ .lg } **[Riesgos del panel](donde-estamos/riesgos.md)**
+
+    ---
+
+    Los 5 críticos + los 10 majors con mitigaciones recomendadas
+
+-   :material-trophy:{ .lg } **[Fortalezas](donde-estamos/fortalezas.md)**
+
+    ---
+
+    Lo que el panel reconoció como sólido — argumentos de defensa
+
+-   :material-book-open-page-variant:{ .lg } **[Profundización académica](academico/propuesta-completa.md)**
+
+    ---
+
+    Propuesta completa, marco teórico, metodología, panel review
+
+</div>
+
+## Cómo navegar
 
 ??? tip "¿Te perdés? Empezá por acá"
-    1. Lee [Qué es](el-proyecto/que-es.md) (2 minutos)
-    2. Lee tu página personal en [El equipo](el-equipo/roles.md) (3 minutos)
-    3. Lee [Tareas pendientes](donde-estamos/tareas.md) (5 minutos) y mirá qué te toca
+    1. **Si sos del equipo y querés saber tu siguiente paso:** click en tu persona arriba (Berenice / Sebas / Agus / Steven).
+    2. **Si querés ver qué falta cargar al formulario ANII:** [Checklist formulario ANII](tablero/checklist-anii.md).
+    3. **Si querés saber en qué estado está todo:** [Estado del proyecto](donde-estamos/estado.md).
+    4. **Si querés profundizar académicamente:** [Profundización académica](academico/propuesta-completa.md).
 
-    Si después querés saber MÁS — andá a [Profundización académica](academico/propuesta-completa.md).
+---
+
+*Última actualización: 13 may 2026 · El dashboard se actualiza con cada commit a la rama `main`.*
