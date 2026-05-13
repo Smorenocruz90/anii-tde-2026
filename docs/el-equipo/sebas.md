@@ -4,9 +4,9 @@
 
 **Corresponsable técnico-científico · Co-PI · Lead operativo · CEO Critertec Educación.**
 
-Sos el motor operativo y el puente institucional. Toda la ejecución del estudio en RD pasa por tu vínculo directo con MINERD, INDOTEL, BID y el programa Soy Digital. La factibilidad institucional del proyecto descansa sobre vos.
+Eres el motor operativo y el puente institucional. Toda la ejecución del estudio en RD pasa por tu vínculo directo con MINERD, INDOTEL, BID y el programa Soy Digital. La factibilidad institucional del proyecto descansa sobre ti.
 
-## Lo que hacés
+## Lo que haces
 
 ### En la fase de postulación (mayo–junio 2026)
 
@@ -37,7 +37,7 @@ Sos el motor operativo y el puente institucional. Toda la ejecución del estudio
 | Modalidad de contratación del investigador junior | 3 jun 2026 | Pendiente |
 | Submission final | 11 jun 2026 | — |
 
-## Riesgos que dependen de vos
+## Riesgos que dependen de ti
 
 !!! danger "Universidad partner — bloqueante del filtro A.2"
     Sin universidad partner confirmada y carta aval firmada, ANII puede no procesar la postulación. Este es el riesgo número uno del proyecto en la fase de postulación.
@@ -54,7 +54,7 @@ Sos el motor operativo y el puente institucional. Toda la ejecución del estudio
 
     **Mitigación recomendada:** especificar % de dedicación contractual al proyecto (la propuesta debe declarar tu hoja de tiempo) y quién cubre operación Critertec durante picos M2 (baseline) y M6 (cierre).
 
-## Lo que necesitamos de vos esta semana
+## Lo que necesitamos de ti esta semana
 
 1. **Cerrar universidad partner** — destranca todo
 2. **Conseguir carta MINERD** o, al menos, contacto formal iniciado con documentación
@@ -64,7 +64,7 @@ Sos el motor operativo y el puente institucional. Toda la ejecución del estudio
 
 ## Tu interlocutor principal
 
-**Berenice** para todo lo científico-metodológico. La separación funcional es: ella cuida el rigor y la integridad académica; vos cuidás la ejecución y la articulación institucional. Cada cambio de scope o presupuesto pasa por el comité directivo de los dos (más el referente universidad partner cuando se sume).
+**Berenice** para todo lo científico-metodológico. La separación funcional es: ella cuida el rigor y la integridad académica; tú cuidas la ejecución y la articulación institucional. Cada cambio de scope o presupuesto pasa por el comité directivo de los dos (más el referente universidad partner cuando se sume).
 
 ---
 

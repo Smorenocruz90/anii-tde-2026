@@ -66,14 +66,16 @@ graph LR
 
     **Mitigación recomendada:** o bien asumir el modelo causal-mediación explícitamente (y discutir su no-identificabilidad con N=80), o bien reescribir el análisis para que tipologías y cambios pre-post se traten como bloques paralelos correlacionados sin ordenamiento causal implícito. Pendiente decisión de Berenice.
 
-## Las cuatro categorías de marcado
+## Las cuatro categorías del Labeling Cognitivo
 
-| Color | Categoría | Significado pedagógico | Tradición teórica |
-|:-----:|-----------|------------------------|-------------------|
-| 🟡 | **Importante** | Selección de contenido significativo o saliente para la práctica docente | Anotación activa: Adler & Van Doren (1972), Marshall (1997), Kintsch (1998) |
-| 🔵 | **Duda** | Reconocimiento de brecha de comprensión o necesidad de profundización | Monitoreo metacognitivo: Flavell (1979), Nelson & Narens (1990), Schraw & Moshman (1995) |
-| 🟣 | **Inspiración** | Engagement afectivo-generativo: el contenido activa idea o conexión propia | Engagement educativo: Fredricks, Blumenfeld & Paris (2004) |
-| 🟢 | **Insight** | Momento de integración / reestructuración cognitiva ("aha!") | Cognición de insight: Köhler (1925), Kintsch (1998), Kounios & Beeman (2014) |
+| Categoría | Significado pedagógico | Tradición teórica |
+|-----------|------------------------|-------------------|
+| **Recordar** | Selección de contenido significativo para retener y volver | Adler (1940) *How to Mark a Book*; Marshall (1997, 1998) annotation theory |
+| **Clarificar** | Reconocimiento de brecha de comprensión que requiere aclaración | Palincsar y Brown (1984) Reciprocal Teaching; Khan et al. (2025) meta-análisis |
+| **Conectar** | Generatividad y vínculo con conocimiento previo o práctica propia | Hattan, Alexander y Lupo (2024); Ausubel (1968) saberes previos |
+| **Cuestionar** | Disenso productivo que dispara reestructuración cognitiva | Engle y Conant (2002) productive disciplinary engagement; Adler (1940) disagreement |
+
+Sobre cualquier marca, la docente agrega una **nota propia** en texto o voz transcrita que explica el marcado. La nota es pieza arquitectónica del cuaderno, no agregado opcional: convierte la etiqueta —una señal pobre— en etiqueta más lenguaje natural —una señal rica— y sitúa al sistema bajo régimen de *machine teaching* (Mosqueira-Rey et al., 2023). Esta secuencia (etiqueta humana primero, nota humana segundo, respuesta de IA tercero) mitiga la paradoja cognitiva de la inteligencia artificial en educación.
 
 → Marco teórico completo en [Marco teórico](marco-teorico.md).
 

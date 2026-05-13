@@ -8,9 +8,9 @@
 2. Hace un test breve de 16 ítems (7 minutos) que la sitúa en uno de nueve arquetipos docentes
 3. Empieza un curso de 10 semanas sobre "IA en el aula", organizado como un cuaderno digital con capítulos y bloques
 4. Mientras lee, puede:
-    - 🟡 **Marcar** texto como importante, duda, inspiración o insight
-    - 💬 **Comentar** en texto o voz cualquier bloque
-    - 🎨 **Construir** en una mini-pizarra con stickers, postits, dibujos
+    - 🏷️ **Marcar** texto con uno de cuatro códigos de Labeling Cognitivo: **Recordar**, **Clarificar**, **Conectar**, **Cuestionar**
+    - 📝 **Agregar una nota propia** sobre cada marca, en texto o voz transcrita, explicando el porqué del marcado
+    - 🎨 **Construir** en una mini-pizarra con etiquetas y notas adhesivas digitales
     - 📸 **Subir mini-retos** cada dos semanas con evidencia de aplicación en su aula
     - ⚙️ **Personalizar** su cuaderno
     - 📤 **Compartir** sus páginas con marcas
@@ -32,15 +32,17 @@ graph LR
     style AULA fill:#fce4ec
 ```
 
-Cada acción genera un **evento** en un log con marca temporal anonimizada. Eso nos permite reconstruir el recorrido cognitivo de cada docente — cuándo abrió el capítulo, cuánto tardó en su primera marca, qué orden siguió, cuántas veces volvió a un mismo bloque.
+Cada acción genera un **evento** en un log con marca temporal anonimizada. Esto permite reconstruir el recorrido cognitivo de cada docente — cuándo abrió el capítulo, cuánto tardó en su primera marca, qué orden siguió, cuántas veces volvió a un mismo bloque, qué notó tras cada marca.
 
 ```
 NotebookEvent {
-  type: "highlight_added",
-  payload: { phrase, category: "duda", blockId },
+  type: "label_added",
+  payload: { phrase, category: "Conectar", blockId, ownNote: "..." },
   sessionId, userId (anonimizado), timestamp
 }
 ```
+
+La nota propia que la docente agrega tras cada marca es la pieza arquitectónica que distingue al sistema de un highlighter tradicional: convierte una señal pobre (la etiqueta) en una señal rica (etiqueta + lenguaje natural del docente sobre por qué marcó eso).
 
 ### Lo que medimos antes y después
 
@@ -82,10 +84,10 @@ Para no confundir "abrió el cuaderno" con "transformó su práctica", organizam
 | Nivel | Qué observamos | Cómo |
 |-------|----------------|------|
 | 1. Acceso | Llega al material, completa onboarding | Log: apertura ≥1 sesión |
-| 2. Interacción | Hace acciones sobre el material | Log: navegación, marcas de selección |
-| 3. Intervención reflexiva | Marca/comenta con códigos metacognitivos | Log: dudas, inspiraciones, insights, comments sustantivos |
+| 2. Interacción | Hace acciones sobre el material | Log: navegación, marcas de Recordar (selección básica) |
+| 3. Intervención reflexiva | Marca con códigos elaborativos + nota propia | Log: marcas Clarificar/Conectar/Cuestionar; notas propias sustantivas |
 | 4. Transferencia al aula | Reporta uso en su aula | Mini-retos con artefactos + entrevistas |
-| 5. Apropiación pedagógica | Cambia autoeficacia/motivación | Δ escalas pre-post + intención de continuidad + narrativa |
+| 5. Apropiación pedagógica | Cambia autoeficacia y motivación | Δ escalas pre-post + intención de continuidad + narrativa |
 
 !!! warning "Atención: este modelo no es causal"
     Los niveles son lentes analíticas, no fases obligatorias. Una docente puede estar en Nivel 2 sin alcanzar el 3. No asumimos progresión lineal. Esto es importante: protege contra el sesgo de leer "interacción digital" como equivalente a "transformación pedagógica".

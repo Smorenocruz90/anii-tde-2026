@@ -1,7 +1,7 @@
 # Propuesta completa v2.0
 
 !!! info "Esta es la propuesta v2.0 consolidada"
-    Las 15 textareas y 3 tablas del formulario ANII redactadas. Total: ~4.880 palabras de 5.250 disponibles (margen 7%). **Pendiente de remediación según hallazgos del panel** — mirá [Riesgos](../donde-estamos/riesgos.md) y [Tareas pendientes](../donde-estamos/tareas.md) antes de tomar este texto como definitivo.
+    Las 15 textareas y 3 tablas del formulario ANII redactadas. Total: ~4.880 palabras de 5.250 disponibles (margen 7%). **Pendiente de remediación según hallazgos del panel** — mira [Riesgos](../donde-estamos/riesgos.md) y [Tareas pendientes](../donde-estamos/tareas.md) antes de tomar este texto como definitivo.
 
 ## Cómo está organizada
 

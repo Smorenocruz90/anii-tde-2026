@@ -4,9 +4,9 @@
 
 **Investigadora · Coordinación pedagógica y de producto · UX.**
 
-Sos quien hace el puente entre el corazón pedagógico, el desarrollo de producto y la validación con docentes reales. En el proyecto sos la responsable de que el curso piloto sea pedagógicamente sólido y que el cuaderno digital ofrezca una experiencia de uso defendible frente a un panel académico.
+Eres quien hace el puente entre el corazón pedagógico, el desarrollo de producto y la validación con docentes reales. En el proyecto eres la responsable de que el curso piloto sea pedagógicamente sólido y que el cuaderno digital ofrezca una experiencia de uso defendible frente a un panel académico.
 
-## Lo que hacés
+## Lo que haces
 
 ### En la fase de postulación (mayo–junio 2026)
 
@@ -33,7 +33,7 @@ Sos quien hace el puente entre el corazón pedagógico, el desarrollo de product
 | Definición pedagógica del 9° arquetipo | M0 oct 2026 | Pendiente |
 | Co-decisión: si se adopta la 5ª categoría (Disenso) o se mantiene en 4 | 31 may 2026 | Pendiente |
 
-## Tensiones que tenés que ayudar a resolver
+## Tensiones que tienes que ayudar a resolver
 
 !!! abstract "Tensión filosófica del producto"
     Notebook personal vs LMS secuencial vs Red social tipo Reddit. El proyecto ANII se ejecuta sobre **versión congelada del bundle**, así que esta tensión no bloquea la postulación, pero afecta cómo se narra el cuaderno en el formulario (sección 4.5.1).
@@ -44,7 +44,7 @@ Sos quien hace el puente entre el corazón pedagógico, el desarrollo de product
 !!! abstract "Heterogeneidad de los arquetipos"
     Algunos son comportamentales (Maker, Narrador) y otros aspiracionales (Catalizador, Tejedor). Esto puede bajar la validez discriminante del SJT-POV. Para el proyecto ANII, el SJT se aplica solo como caracterización descriptiva (no como predictor), pero conviene tener tu opinión sobre si esa decisión es defendible.
 
-## Riesgos que dependen de vos
+## Riesgos que dependen de ti
 
 !!! danger "Validez del curso piloto"
     El itinerario formativo de 10 semanas es el contexto donde se observa todo. Si el contenido pedagógico es flojo o no se alinea bien al UNESCO AICFT 2024, el revisor académico va a cuestionar todo el diseño.
@@ -54,7 +54,7 @@ Sos quien hace el puente entre el corazón pedagógico, el desarrollo de product
 !!! warning "Adaptación de Tschannen-Moran a IA"
     Necesitamos panel de expertos en M1 para revisar la adaptación. Tu rol: coordinar con Berenice la convocatoria del panel.
 
-## Lo que necesitamos de vos esta semana
+## Lo que necesitamos de ti esta semana
 
 1. **Confirmar contenido del curso piloto** y mapeo a UNESCO AI Competency Framework for Teachers (2024)
 2. **Validar el modelo de 5 niveles** desde la perspectiva pedagógica — ¿hay confusión entre "intervención reflexiva" y "transferencia"?

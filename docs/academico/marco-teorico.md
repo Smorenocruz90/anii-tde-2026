@@ -4,105 +4,146 @@
 
 ```mermaid
 mindmap
-  root((4 categorías<br/>de marcado))
-    🟡 Importante
-      Anotación activa
-      Adler & Van Doren 1972
-      Marshall 1997
-      Kintsch 1998
-    🔵 Duda
-      Monitoreo metacognitivo
-      Flavell 1979
-      Nelson & Narens 1990
-      Schraw & Moshman 1995
-    🟣 Inspiración
-      Engagement afectivo
-      Fredricks et al. 2004
-      O'Hara & Sellen 1997
-    🟢 Insight
-      Cognición de insight
-      Köhler 1925
-      Kounios & Beeman 2014
-      Kintsch 1998
+  root((4 categorías<br/>de Labeling<br/>Cognitivo))
+    Recordar
+      Adler 1940
+      Marshall 1997-98
+      Underlining + procedural signaling
+    Clarificar
+      Palincsar & Brown 1984
+      Reciprocal Teaching
+      Khan et al. 2025 — meta-análisis
+    Conectar
+      Hattan, Alexander & Lupo 2024
+      Ausubel 1968 — saberes previos
+      Adler 1940 — inquiry
+    Cuestionar
+      Engle & Conant 2002
+      Productive Disciplinary Engagement
+      Adler 1940 — disagreement
 ```
 
 ## La idea matriz
 
-Las cuatro categorías de marcado del cuaderno digital están ancladas en **cuatro tradiciones teóricas independientes** con literatura clásica desde 1925. Esto blinda al instrumento contra la crítica de que las categorías son arbitrarias o derivadas del producto comercial.
+Las cuatro categorías de Labeling Cognitivo del cuaderno digital se anclan en la tipología fundacional de **Mortimer Adler (1940)** *"How to Mark a Book"*, retomada y refinada por la investigación contemporánea en *annotation theory* y comprensión profunda. La tesis de Adler es directa: marcar un texto con código semántico es un acto cognitivo distinguible, no decorativo, que expresa funciones diferentes según el tipo de marca.
 
-## Cuatro tradiciones que sostienen el sistema
+> **El Labeling Cognitivo retoma a Adler en ese punto: marcar es categorizar, y categorizar es pensar.**
 
-### 1. Teoría de la anotación activa
+Esta fundamentación se complementa con un hallazgo crítico de Dunlosky et al. (2013) en la revisión más citada sobre estrategias de aprendizaje: **el resaltado solo —marcar sin elaborar— tiene utilidad cognitiva baja**. Lo que produce comprensión profunda es la *elaborative interrogation*: convertir el marcado en una pregunta o explicación que obliga a comprometer el conocimiento previo con lo leído.
 
-- **Adler & Van Doren (1972)** — marcar un texto es "conversar con el autor"
-- **Marshall (1997)** — la anotación digital tiene doble función: interpretación privada + comunicación social
-- **Wolfe & Neuwirth (2001)** — la anotación electrónica es categóricamente distinta del subrayado en papel por captura, persistencia y análisis
+Por eso el cuaderno digital integra deliberadamente la **nota propia de la docente** sobre cada marca como pieza arquitectónica, no como agregado opcional. La etiqueta sola es una señal pobre; la etiqueta más la nota en lenguaje natural de la docente es una señal rica.
 
-Justifica el principio fundacional del cuaderno: **resaltar con código semántico es un acto cognitivo, no decorativo**, y por lo tanto observable como dato.
+## Las cuatro categorías y su anclaje
 
-### 2. Teoría de la metacognición (pieza más potente)
+### Recordar
 
-- **Flavell (1979)** — metacognición como "pensar sobre el propio pensar"
-- **Nelson & Narens (1990)** — distinción meta-nivel (monitoreo y control) vs objeto-nivel (procesamiento del contenido)
-- **Schraw & Moshman (1995)** — conocimiento de cognición vs regulación de cognición
-- **Tarchi (2017)** — el monitoreo metacognitivo durante la lectura correlaciona con comprensión profunda
+**Función cognitiva:** memoria, importancia, retorno deliberado al contenido.
 
-Marcar como "duda" **es** metacognición observable: la docente declara públicamente *"me doy cuenta de que esto no lo entiendo todavía"*. Marcar como "insight" es metacognición de logro: *"me doy cuenta de que esto se conectó con algo"*.
+- **Adler (1940)** — *underlining* como acto de selección consciente para retención
+- **Marshall (1997, 1998)** — *procedural signaling* en annotation theory
+- **Cui et al. (2024)** — los sistemas de annotation con tagging mejoran engagement y comprensión
 
-Esta tradición se conecta directamente con la **autonomía y agencia docente** que el International Task Force on Teachers for Education 2030 / UNESCO (2025) identifica como pilar de la integración pedagógica de IA.
+La docente marca con código Recordar el contenido que considera significativo para retener y volver. Es la categoría más cercana a la noción tradicional de "subrayado activo" pero codificada explícitamente como acto de retención.
 
-### 3. Cognición pedagógica del docente (PCK)
+### Clarificar
 
-- **Shulman (1986; 1987)** — Pedagogical Content Knowledge: los docentes no procesan el material como estudiantes, lo procesan como diseñadores de experiencias de aprendizaje
-- **Razon et al. (2012)** — tipología contemporánea de anotaciones colaborativas (cognitivas, metacognitivas, afectivas, organizacionales) que mapean directamente a las 4 categorías del proyecto
-- **Mu & Gilbert (2007)** — patrones de anotación personal con 6 categorías
+**Función cognitiva:** confusión, falta de comprensión, señal de no entender todavía.
 
-Lo que distingue al sistema del proyecto de uno de highlights tradicional es que está **diseñado para docentes**, no para estudiantes: las cuatro categorías capturan modalidades de **intervención profesional** sobre material formativo.
+- **Palincsar y Brown (1984)** — *clarifying* como una de las cuatro estrategias clave del *Reciprocal Teaching*
+- **Khan et al. (2025)** — meta-análisis reciente con Cohen's d entre 0,42 y 0,47 para efectos de Reciprocal Teaching en comprensión
 
-### 4. Cognición de insight
+La docente marca con código Clarificar el contenido donde reconoce una brecha de comprensión que necesita aclaración. A diferencia de la categoría anterior "Duda" en la versión inicial del modelo, Clarificar pone el énfasis en la acción posterior esperada (resolver, aclarar) más que en el estado emocional de duda.
 
-- **Köhler (1925)** — el insight como reestructuración súbita de la representación mental del problema (Gestalt)
-- **Kintsch (1998)** — modelo Construction-Integration: el insight es el momento de integración exitosa con conocimiento previo
-- **Kounios & Beeman (2014)** — el momento "aha!" tiene firma neural distinta del procesamiento analítico
+### Conectar
 
-Previene que la categoría Insight se confunda con "me gustó" — está reservada específicamente para **reestructuración cognitiva**.
+**Función cognitiva:** generatividad, conexión con conocimiento previo, idea propia que el contenido detona.
+
+- **Hattan, Alexander y Lupo (2024)** — meta-revisión en *Review of Educational Research* sobre la activación de saberes previos
+- **Ausubel (1968)** — anclaje cognitivo del nuevo conocimiento sobre estructuras previas
+- **Adler (1940)** — *inquiry* como conexión productiva
+- **Palincsar y Brown (1984)** — *predicting* como anticipación informada por conocimiento previo
+
+La docente marca con código Conectar el contenido que detona una idea propia o establece un puente con su práctica de aula. Es la categoría más generativa: pide elaboración explícita en la nota propia.
+
+### Cuestionar
+
+**Función cognitiva:** disenso, contradicción con la propia experiencia o convicción, reestructuración cognitiva.
+
+- **Engle y Conant (2002)** — *productive disciplinary engagement*: el desacuerdo autorizado dispara reestructuración del esquema mental
+- **Adler (1940)** — *disagreement* como acto cognitivo más exigente
+- **Ausubel (1968)** — discrepancia entre saber previo y texto como motor de aprendizaje
+
+La docente marca con código Cuestionar el contenido con el que disiente, que contradice su experiencia o su convicción profesional. Esta es la categoría con mayor potencia cognitiva: el desacuerdo formulado abre la posibilidad de reestructurar el esquema.
 
 ## Mapeo categoría × constructo
 
-| Categoría | Anclaje teórico principal | Constructo central |
-|-----------|---------------------------|---------------------|
-| 🟡 Importante | Adler & Van Doren (1972) · Pressley & Afflerbach (1995) · Kintsch (1998) | Selección significativa durante la construcción del modelo situacional |
-| 🔵 Duda | Flavell (1979) · Schraw & Moshman (1995) · Nelson & Narens (1990) · Tarchi (2017) | Monitoreo metacognitivo de brecha de comprensión |
-| 🟣 Inspiración | Fredricks, Blumenfeld & Paris (2004) · O'Hara & Sellen (1997) | Engagement afectivo-generativo: activación de cognición creativa o conexión personal |
-| 🟢 Insight | Köhler (1925) · Kounios & Beeman (2014) · Kintsch (1998) | Reestructuración cognitiva / integración con conocimiento previo |
+| Categoría | Anclaje teórico principal | Constructo central | Lo que produce la nota propia |
+|-----------|---------------------------|---------------------|-------------------------------|
+| Recordar | Adler (1940), Marshall (1997) | Selección significativa para retención | Por qué la docente quiere recordar esto |
+| Clarificar | Palincsar y Brown (1984) | Reconocimiento de brecha de comprensión | Qué específicamente no entiende todavía |
+| Conectar | Hattan, Alexander y Lupo (2024); Ausubel (1968) | Activación de conocimiento previo | Con qué de su práctica lo conecta |
+| Cuestionar | Engle y Conant (2002) | Disenso productivo | Qué argumenta en contra y por qué |
 
-## Conexiones complementarias y legitimantes
+## La arquitectura macro-meso-micro
 
-- **Self-Regulated Learning** (Zimmerman 2002, Pintrich 2000) — las 4 categorías son artefactos observables de la fase de performance del SRL
-- **Pedagogía crítica latinoamericana** (Freire 1970) — anclaje regional legitimante
-- **Teacher Task Force / UNESCO (2025)** — el sistema operacionaliza la metacognición profesional docente como acto observable, en línea con el marco de autonomía y agencia docente
+El Labeling Cognitivo es la operación **micro** de un sistema de tres niveles articulados:
 
-## Cita estratégica para insertar en el formulario ANII
+```mermaid
+graph TD
+    MACRO["<b>MACRO — Arquetipo pedagógico</b><br/>Identidad emergente · 9 arquetipos<br/>Tejedor · Explorador · Arquitecto · Catalizador<br/>Narrador · Alquimista · Guía · Maker · Sanador"]
+    MESO["<b>MESO — 13 competencias</b><br/>Capacidades que la docente activa<br/>4 dimensiones: Adentro · Aprendo · Construyo · Transformo"]
+    MICRO["<b>MICRO — Labeling Cognitivo</b><br/>Operación cotidiana sobre el contenido<br/>Recordar · Clarificar · Conectar · Cuestionar"]
 
-??? tip "Click para ver la cita propuesta"
-    *"El sistema de captura propuesto sintetiza la tradición de anotación activa (Adler & Van Doren, 1972; Marshall, 1997), el modelo de monitoreo metacognitivo (Flavell, 1979; Schraw & Moshman, 1995; Nelson & Narens, 1990), la cognición pedagógica del docente (Shulman, 1986, 1987; Razon et al., 2012) y la investigación en cognición de insight (Köhler, 1925; Kounios & Beeman, 2014), operacionalizando cuatro modalidades de intervención pedagógica observables y mutuamente excluyentes en el momento de la marcación."*
+    MICRO -."ejercita".-> MESO
+    MESO -."estabiliza".-> MACRO
+    MACRO -."modula".-> MICRO
 
-## Limitaciones reconocidas del marco
+    style MACRO fill:#e1bee7,stroke:#6a1b9a
+    style MESO fill:#bbdefb,stroke:#1565c0
+    style MICRO fill:#c8e6c9,stroke:#2e7d32
+```
 
-### Modalidades no cubiertas por las 4 categorías
+**El sistema funciona porque los tres niveles se articulan bidireccionalmente:**
 
-El sistema cubre cognitivo (Importante), metacognitivo (Duda), afectivo-generativo (Inspiración) e integración (Insight). **No cubre** dos modalidades que la literatura considera tipos legítimos:
+- En sentido **ascendente**, los actos micro de Labeling Cognitivo ejercitan competencias meso, que al acumularse producen el patrón estable que el sistema reconoce como arquetipo macro.
+- En sentido **descendente**, el arquetipo identificado modula la personalización del entorno: las preguntas disparadoras, los retos sugeridos y el lenguaje del cuaderno se ajustan al modo predominante de la docente.
 
-- **Evaluativa-crítica** (acuerdo/desacuerdo con el contenido — Mu & Gilbert 2007). Posible 5ª: 🔴 "Disenso" o "Cuestionamiento"
-- **Aplicativa** (intención de uso en el aula). Está parcialmente cubierta por los mini-retos, pero podría capturarse como categoría adicional: 🟧 "Aplicar"
+!!! note "Para el estudio ANII"
+    El proyecto observa la operación **micro** (Labeling Cognitivo) como evidencia granular de proceso. Las dimensiones macro (arquetipos) y meso (competencias) se aplican como caracterización descriptiva de la cohorte mediante el SJT-POV inicial, sin elevarlas a variables predictoras (decisión deliberada para mitigar el conflicto de interés del instrumento).
 
-Estas se mencionan en el manuscrito como **futuras líneas del instrumento** — eso aporta honestidad académica.
+## Conexiones complementarias
+
+- **Self-Regulated Learning** (Zimmerman, 2002) — las cuatro categorías son artefactos observables de la regulación cognitiva durante la lectura
+- **Machine Teaching** (Mosqueira-Rey et al., 2023) — la secuencia "etiqueta humana primero, nota humana segundo, respuesta de IA tercero" sitúa al sistema en régimen de machine teaching, no de IA-led
+- **Teacher Task Force / UNESCO (2025)** — el sistema operacionaliza la autonomía y agencia docente frente a la integración de IA: la docente opera, no es operada
+- **Pedagogía crítica latinoamericana** (Freire, 1970) — anclaje regional legitimante: la docente como sujeto que dialoga con el material, no como receptor pasivo
+
+## La paradoja cognitiva de la IA, resuelta por arquitectura
+
+Literatura emergente (Frontiers in Education, 2025) advierte sobre una **paradoja cognitiva** en el uso de IA en educación: cuando los aprendices reciben respuestas autogeneradas y las aceptan pasivamente, el engagement crítico se reduce en lugar de aumentar.
+
+El cuaderno digital resuelve esta paradoja por arquitectura, no por buena intención:
+
+1. La docente **etiqueta** con código Labeling Cognitivo primero
+2. La docente **escribe su nota propia** segundo
+3. La elaboración asistida por IA (señalador) responde **tercero**
+
+La intervención humana precede al feedback de la máquina. La docente opera el sistema, no es operada por él.
+
+## Limitaciones reconocidas
 
 ### Validación psicométrica pendiente
 
-Las 4 categorías están definidas conceptualmente pero **no han sido validadas empíricamente** (fiabilidad inter-juez ni validez de constructo). El proyecto ANII incorpora la primera evidencia de fiabilidad como **sub-objetivo metodológico declarado**, convirtiendo la debilidad en aporte.
+Las cuatro categorías están definidas conceptualmente con anclaje en tradiciones consolidadas, pero **no han sido validadas empíricamente** en cohorte docente latinoamericana. El proyecto ANII incorpora primeras evidencias de propiedades observadas como reporte exploratorio, sin pretender validación psicométrica completa con N=80.
 
-→ Marco original con todas las referencias completas en `contexto_anii_consolidado.md` (sección 3).
+### Modalidades no cubiertas
+
+El sistema cubre cuatro funciones cognitivas distinguibles que combinan selección, monitoreo, generación y crítica. No cubre, por diseño:
+
+- **Evaluativa-afectiva** (me gusta / no me gusta): el sistema privilegia funciones cognitivas sobre reactivas
+- **Aplicativa** (intención específica de uso en aula): parcialmente cubierta por los mini-retos, no por el código Labeling
+
+Estas limitaciones se mencionan como futuras líneas del instrumento.
 
 ---
 

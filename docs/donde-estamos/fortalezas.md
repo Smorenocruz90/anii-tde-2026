@@ -7,16 +7,18 @@ Estas son las cinco fortalezas reales identificadas por el panel — las que ya 
 
 ## 1. Anclaje teórico denso y honesto
 
-Las cuatro categorías de marcado (importante / duda / inspiración / insight) no son invento nuestro. Están ancladas en **cuatro tradiciones teóricas independientes** con literatura clásica:
+Las cuatro categorías del Labeling Cognitivo (Recordar, Clarificar, Conectar, Cuestionar) no son invención del producto. Se anclan en tradiciones consolidadas con literatura clásica desde 1940:
 
 | Categoría | Tradición | Autores clave |
 |-----------|-----------|---------------|
-| 🟡 Importante | Anotación activa | Adler & Van Doren (1972), Marshall (1997), Kintsch (1998) |
-| 🔵 Duda | Monitoreo metacognitivo | Flavell (1979), Nelson & Narens (1990), Schraw & Moshman (1995) |
-| 🟣 Inspiración | Engagement afectivo-generativo | Fredricks, Blumenfeld & Paris (2004) |
-| 🟢 Insight | Cognición de insight | Köhler (1925), Kintsch (1998), Kounios & Beeman (2014) |
+| **Recordar** | Annotation activa fundacional | Adler (1940) *How to Mark a Book*; Marshall (1997, 1998) annotation theory |
+| **Clarificar** | Reciprocal Teaching | Palincsar & Brown (1984); Khan et al. (2025) meta-análisis |
+| **Conectar** | Activación de saberes previos | Hattan, Alexander & Lupo (2024); Ausubel (1968) |
+| **Cuestionar** | Productive disciplinary engagement | Engle & Conant (2002); Adler (1940) disagreement |
 
-**Por qué importa:** blinda contra la crítica de que las categorías son arbitrarias o derivadas del producto comercial. Cada categoría tiene autores externos que la justifican antes de que mencionemos a Criter.
+A esto se suma la crítica de Dunlosky et al. (2013) sobre que el resaltado sin elaboración tiene utilidad cognitiva baja, lo que justifica la incorporación de la nota propia de la docente sobre cada marca (Mosqueira-Rey et al., 2023: machine teaching).
+
+**Por qué importa:** blinda contra la crítica de que las categorías son arbitrarias o derivadas del producto. Cada categoría tiene autores externos consolidados que la justifican antes de cualquier mención a Criter Academy.
 
 **Cómo defenderla:** mantener las citas en 4.1.1 ANTES de cualquier mención al cuaderno digital. No reordenar.
 

@@ -53,7 +53,7 @@ Las siguientes capacidades de Claude Code están instaladas en `.claude/skills/`
 - **deep-research** — 13 agentes para investigación profunda
 - `/review-grant` — slash command para panel pre-submission de 6 agentes
 
-→ Ejemplo de uso: en la próxima sesión de iteración, vos podés correr `/review-grant major-funder propuesta_v2_consolidada.md` para hacer una pasada de revisión panel sobre la versión que estemos trabajando.
+→ Ejemplo de uso: en la próxima sesión de iteración, puedes correr `/review-grant major-funder propuesta_v2_consolidada.md` para hacer una pasada de revisión panel sobre la versión que estemos trabajando.
 
 ## Documentos del proyecto
 

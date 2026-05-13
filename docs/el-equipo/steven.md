@@ -4,9 +4,9 @@
 
 **Investigador / Consultor · Data engineering · Captura del log observacional.**
 
-Sos quien garantiza que el cuaderno digital efectivamente capture lo que la docente hace, lo persista de manera anonimizada y auditable, y lo entregue como dataset usable al honest broker para análisis. La integridad del dato pasa por vos.
+Eres quien garantiza que el cuaderno digital efectivamente capture lo que la docente hace, lo persista de manera anonimizada y auditable, y lo entregue como dataset usable al honest broker para análisis. La integridad del dato pasa por ti.
 
-## Lo que hacés
+## Lo que haces
 
 ### En la fase de postulación (mayo–junio 2026)
 
@@ -33,15 +33,15 @@ Sos quien garantiza que el cuaderno digital efectivamente capture lo que la doce
 | Repositorio final del dataset (REDI vs Zenodo vs Harvard Dataverse) | M9 jun 2027 | Pendiente |
 | Software de análisis para el honest broker (Mplus vs poLCA en R) | 31 may 2026 | Pendiente (consulta con Berenice) |
 
-## Riesgos que dependen de vos
+## Riesgos que dependen de ti
 
 !!! danger "Gobernanza del freeze del bundle"
     Durante el estudio el cuaderno está "congelado" en versión inmutable. Si algo se rompe técnicamente (bug crítico, falla de seguridad), ¿quién autoriza un hotfix? ¿Cómo se documenta el cambio sin contaminar los datos del estudio?
 
-    **Mitigación recomendada por el panel:** especificar quién autoriza hotfixes (vos + PI + honest broker), versionado semántico, log de cambios menores no-pedagógicos, ADR firmado al inicio del estudio.
+    **Mitigación recomendada por el panel:** especificar quién autoriza hotfixes (tú + PI + honest broker), versionado semántico, log de cambios menores no-pedagógicos, ADR firmado al inicio del estudio.
 
 !!! danger "Anonimización certificada"
-    El consentimiento informado bajo Ley 172-13 RD habilita el uso secundario de datos para investigación PERO requiere anonimización certificada antes de cualquier transferencia. Si el dataset que entregás al honest broker no está bien anonimizado, hay riesgo legal y ético.
+    El consentimiento informado bajo Ley 172-13 RD habilita el uso secundario de datos para investigación PERO requiere anonimización certificada antes de cualquier transferencia. Si el dataset que entregas al honest broker no está bien anonimizado, hay riesgo legal y ético.
 
     **Mitigación:** protocolo escrito y auditado de anonimización antes del baseline (M2).
 
@@ -50,7 +50,7 @@ Sos quien garantiza que el cuaderno digital efectivamente capture lo que la doce
 
     **Respuesta defendible:** el protocolo de observación (categorías + esquema de eventos + plan de análisis) es lo que se libera bajo CC-BY; la implementación específica de Critertec no es necesaria para reproducir el método — cualquier plataforma que implemente el mismo esquema de eventos puede aplicarlo. Tu rol: documentar el esquema de eventos de manera plataforma-independiente en el documento metodológico abierto.
 
-## Lo que necesitamos de vos esta semana
+## Lo que necesitamos de ti esta semana
 
 1. **Borrador del ADR** del bundle versionado — pieza crítica para defensa del CoI
 2. **Estimación de costos de infraestructura** (cloud storage, backup, dominio, plataforma de webinar) para que Sebas los incluya en presupuesto

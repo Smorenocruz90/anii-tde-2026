@@ -4,9 +4,9 @@
 
 **Responsable técnico-científica · PI · PhD con afiliación universitaria.**
 
-Sos el ancla académica del proyecto. Tu trayectoria post-doctoral en investigación educativa en RD y tu perspectiva docente son la solvencia científica que el filtro A.2 evalúa, y son el motor del diseño metodológico y del análisis.
+Eres el ancla académica del proyecto. Tu trayectoria post-doctoral en investigación educativa en RD y tu perspectiva docente son la solvencia científica que el filtro A.2 evalúa, y son el motor del diseño metodológico y del análisis.
 
-## Lo que hacés
+## Lo que haces
 
 ### En la fase de postulación (mayo–junio 2026)
 
@@ -38,19 +38,19 @@ Sos el ancla académica del proyecto. Tu trayectoria post-doctoral en investigac
 | Decisión sobre arquitectura del honest broker (incluye design lock?) | 27 may 2026 | **Pendiente** |
 | Aprobación final v2.1 para submission | 8 jun 2026 | Pendiente |
 
-## Riesgos que dependen de vos
+## Riesgos que dependen de ti
 
 !!! danger "Single point of failure"
-    Sos la única PhD/PI técnico-científica del equipo. Si por alguna razón quedás fuera del proyecto durante M3-M6 (recolección activa), no hay backup académico con autoridad equivalente.
+    Eres la única PhD/PI técnico-científica del equipo. Si por alguna razón quedas fuera del proyecto durante M3-M6 (recolección activa), no hay backup académico con autoridad equivalente.
 
     **Mitigación recomendada por el panel:** definir suplencia académica formal explícita (puede ser el referente de la universidad partner) y documentarla en la propuesta.
 
 !!! danger "Validación instrumental"
     La adaptación de la escala Tschannen-Moran al dominio de uso pedagógico de IA requiere panel de expertos y reporte de propiedades psicométricas. Sin esto, la asociación entre tipologías y autoeficacia queda sobre instrumento no validado.
 
-    **Mitigación recomendada:** decidir antes del 27 may si usás versión general de Tschannen-Moran (más conservador) o adaptación con panel (más ambicioso, requiere presupuesto y cronograma).
+    **Mitigación recomendada:** decidir antes del 27 may si usas versión general de Tschannen-Moran (más conservador) o adaptación con panel (más ambicioso, requiere presupuesto y cronograma).
 
-## Lo que necesitamos de vos esta semana
+## Lo que necesitamos de ti esta semana
 
 1. **Confirmar universidad partner final** — esto destranca convenio honest broker, IRB, coautoría y filtro A.2
 2. **Decidir el alcance del honest broker**: ¿análisis solamente, o análisis + design lock?
@@ -59,7 +59,7 @@ Sos el ancla académica del proyecto. Tu trayectoria post-doctoral en investigac
 
 ## Tu interlocutor principal
 
-**Sebas** para todo lo operativo, institucional y de coordinación con MINERD/INDOTEL/BID. La separación funcional es: vos cuidás el rigor científico y la integridad académica; Sebas cuida la ejecución y la articulación institucional.
+**Sebas** para todo lo operativo, institucional y de coordinación con MINERD/INDOTEL/BID. La separación funcional es: tú cuidas el rigor científico y la integridad académica; Sebas cuida la ejecución y la articulación institucional.
 
 ---
 

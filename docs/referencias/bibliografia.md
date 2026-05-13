@@ -1,71 +1,100 @@
 # Bibliografía
 
-## Referencias citadas en la propuesta
+## Referencias citadas en la propuesta y el marco conceptual
 
-### Anotación activa
+### Annotation theory y Labeling Cognitivo
 
-- Adler, M. J., & Van Doren, C. (1972). *How to read a book*. Touchstone.
-- Marshall, C. C. (1997). Annotation: From paper books to the digital library. *Proceedings of the second ACM international conference on Digital libraries*, 131–140.
-- Wolfe, J. L., & Neuwirth, C. M. (2001). From the margins to the center: The future of annotation. *Journal of Business and Technical Communication*, 15(3), 333–371.
+- Adler, M. J. (1940). *How to Mark a Book*. The Saturday Review of Literature.
+- Marshall, C. C. (1997). Annotation: from paper books to the digital library. *Proceedings of ACM Digital Libraries*.
+- Marshall, C. C. (1998). Toward an ecology of hypertext annotation. *Proceedings of ACM Hypertext*.
+- Cui, Y. et al. (2024). Empowering active learning: A social annotation tool for improving student engagement. *British Journal of Educational Technology*.
 
-### Metacognición y monitoreo
+### Comprensión profunda, Reciprocal Teaching y saberes previos
 
-- Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist*, 34(10), 906.
-- Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*, 26, 125–173.
-- Schraw, G., & Moshman, D. (1995). Metacognitive theories. *Educational Psychology Review*, 7(4), 351–371.
-- Tarchi, C. (2017). Comprehending expository texts: The role of cognitive and motivational factors. *Reading Psychology*, 38(2), 154–181.
+- Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117-175.
+- Khan, S. et al. (2025). Examining Classroom Strategies: Reciprocal Teaching and its Effect on Reading Comprehension. *SAGE Open*.
+- Hattan, C., Alexander, P. A., & Lupo, S. M. (2024). Leveraging What Students Know to Make Sense of Texts. *Review of Educational Research*.
+- Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart and Winston.
+- Dunlosky, J. et al. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4-58.
 
-### Comprensión lectora y construcción de significado
+### Productive disagreement y engagement disciplinar
 
-- Pressley, M., & Afflerbach, P. (1995). *Verbal protocols of reading: The nature of constructively responsive reading*. Lawrence Erlbaum.
-- Kintsch, W. (1998). *Comprehension: A paradigm for cognition*. Cambridge University Press.
+- Engle, R. A., & Conant, F. R. (2002). Guiding principles for fostering productive disciplinary engagement. *Cognition and Instruction, 20*(4), 399-483.
 
-### Cognición docente y PCK
+### Machine Teaching y human-in-the-loop
 
-- Shulman, L. S. (1986). Those who understand: Knowledge growth in teaching. *Educational Researcher*, 15(2), 4–14.
-- Shulman, L. S. (1987). Knowledge and teaching: Foundations of the new reform. *Harvard Educational Review*, 57(1), 1–22.
-- Razon, S., Turner, J., Johnson, T. E., Arsal, G., & Tenenbaum, G. (2012). Effects of a collaborative annotation method on students' learning and learning-related motivation and affect. *Computers in Human Behavior*, 28(2), 350–359.
-- Mu, X., & Gilbert, J. K. (2007). The use of patterns in personal annotations. *Proceedings of the 16th international conference on World Wide Web*, 1239–1240.
+- Mosqueira-Rey, E. et al. (2023). Human-in-the-loop machine learning: a state of the art. *Artificial Intelligence Review, 56*(4), 3005-3054.
+- Frontiers in Education (2025). The cognitive paradox of AI in education.
 
-### Cognición de insight
+### Identidad docente, arquetipos pedagógicos y competencias
 
-- Köhler, W. (1925). *The mentality of apes* (E. Winter, Trans.). Harcourt, Brace.
-- Kounios, J., & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71–93.
+- Beauchamp, C., & Thomas, L. (2009). Understanding teacher identity. *Cambridge Journal of Education, 39*(2), 175-189.
+- Beijaard, D., Meijer, P. C., & Verloop, N. (2004). Reconsidering research on teachers' professional identity. *Teaching and Teacher Education, 20*(2), 107-128.
+- Pratt, D. D., & Collins, J. B. (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents. *Adult Education Quarterly, 61*(4).
+- Rushton, E. A. C. et al. (2023). Understanding teacher identity in teachers' professional lives: A systematic review. *Review of Education, 11*(2).
+- Grasha, A. F. (1996). *Teaching with style*. Alliance Publishers.
 
-### Engagement y aprendizaje autorregulado
+### Validación longitudinal e intra-annotator agreement
 
-- Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: Potential of the concept, state of the evidence. *Review of Educational Research*, 74(1), 59–109.
-- O'Hara, K., & Sellen, A. (1997). A comparison of reading paper and on-line documents. *Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems*, 335–342.
-- Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory into Practice*, 41(2), 64–70.
-- Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. *Handbook of Self-Regulation*, 451–502.
+- Hovy, D., Plank, B., & Søgaard, A. (2025). Consistency is Key: Disentangling Label Variation in NLP with Intra-Annotator Agreement. arXiv:2301.10684.
+- Settles, B. (2009, 2012). Active Learning Literature Survey / Active Learning. Synthesis Lectures on AI and ML.
 
-### Autoeficacia y motivación docente
+### Cognición situada y arquitectura sistémica
 
-- Tschannen-Moran, M., & Woolfolk Hoy, A. (2001). Teacher efficacy: Capturing an elusive construct. *Teaching and Teacher Education*, 17(7), 783–805.
-- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist*, 55(1), 68–78.
-- Fernet, C., Senécal, C., Guay, F., Marsh, H., & Dowson, M. (2008). The Work Tasks Motivation Scale for Teachers (WTMST). *Journal of Career Assessment*, 16(2), 256–279.
+- Brown, J. S., Collins, A., & Duguid, P. (1989). Situated cognition and the culture of learning. *Educational Researcher, 18*(1), 32-42.
+- Bronfenbrenner, U. (1979). *The ecology of human development*. Harvard University Press.
+- Engeström, Y. (2001). Expansive learning at work. *Journal of Education and Work, 14*(1), 133-156.
 
-### Pedagogía crítica latinoamericana
+### Formación docente, autoeficacia y motivación
+
+- Tschannen-Moran, M., & Woolfolk Hoy, A. (2001). Teacher efficacy: capturing an elusive construct. *Teaching and Teacher Education, 17*(7), 783-805.
+- Bandura, A. (1997). *Self-efficacy: The exercise of control*. W.H. Freeman.
+- Deci, E. L., & Ryan, R. M. (2017). *Self-determination theory*. Guilford.
+- Fernet, C., Senécal, C., Guay, F., Marsh, H., & Dowson, M. (2008). The Work Tasks Motivation Scale for Teachers (WTMST). *Journal of Career Assessment, 16*(2), 256-279.
+- Beltman, S., Mansfield, C., & Price, A. (2011). Thriving not just surviving: A review of research on teacher resilience. *Educational Research Review, 6*(3), 185-207.
+
+### Formación docente efectiva y marcos de competencias
+
+- Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). *Effective Teacher Professional Development*. Learning Policy Institute.
+- UNESCO (2018). *UNESCO ICT Competency Framework for Teachers, Version 3*.
+- UNESCO (2024). *AI competency framework for teachers*.
+- UNESCO (2022). *Reimagining our futures together: A new social contract for education*.
+- OECD (2019). *OECD Learning Compass 2030*.
+- CCSSO (2013). *InTASC Model Core Teaching Standards*. Council of Chief State School Officers.
+- Redecker, C. (2017). *European Framework for the Digital Competence of Educators: DigCompEdu*. Joint Research Centre.
+- CASEL (2020). *CASEL's SEL Framework*.
+- Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge. *Teachers College Record, 108*(6), 1017-1054.
+- OCDE-TALIS (2024). *Teaching and Learning International Survey results*.
+
+### Pedagogía crítica latinoamericana y enseñanza significativa
 
 - Freire, P. (1970). *Pedagogía del oprimido*. Siglo XXI.
+- Maggio, M. (2012). *Enriquecer la enseñanza*. Paidós.
+- Maggio, M. (2018). *Reinventar la clase en la universidad*. Paidós.
+- Maggio, M. (2022). *Híbrida*. Tilde Editora.
+- Anijovich, R. (Ed.). (2010). *La evaluación significativa*. Paidós.
 
-### Formación docente y panorama global
-
-- Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). *Effective teacher professional development*. Learning Policy Institute.
-- UNESCO. (2018). *Marco de competencias de los docentes en materia de TIC* (versión 3). UNESCO.
-- UNESCO. (2022). *Reimagining our futures together: A new social contract for education*. UNESCO.
-- UNESCO. (2024). *AI competency framework for teachers*. UNESCO.
-- OCDE. (2024). *TALIS 2024: Teaching and Learning International Survey results*. OCDE.
-
-### Panorama IA en educación ALC
+### Diagnóstico regional y panorama IA en educación
 
 - Rivas, A., Buchbinder, N., & Barrenechea, I. (2025). *El futuro de la Inteligencia Artificial en educación en América Latina*. OEI / Fundación ProFuturo. ISBN 978-84-86025-22-9.
-- Fundación Ceibal. (2026). *Transformación Digital Educativa en América Latina y el Caribe: ¿dónde estamos y hacia dónde vamos?* Apoyo IDRC Canadá.
-- International Task Force on Teachers for Education 2030. (2025). *Promoting and protecting teacher agency in the age of artificial intelligence: Position paper*. UNESCO. https://unesdoc.unesco.org/ark:/48223/pf0000396403
+- Fundación Ceibal & IDRC Canadá (2026). *Diagnóstico Regional de Transformación Digital Educativa en América Latina*. Proyecto EdTech Initiative.
+- International Task Force on Teachers for Education 2030 / UNESCO (2025). *Promoting and protecting teacher agency in the age of artificial intelligence: Position paper*. UNESCO.
+- Brito, R., Parente, C., & Mesquita, A. (2025). *El profesor ampliado: tránsitos en la formación docente*.
 
-### Brito et al. y rol docente ampliado
+### Otros anclajes específicos del marco
 
-- Brito, R., Parente, C., & Mesquita, E. (2025). El profesor ampliado: rediseño del rol docente frente a sistemas inteligentes. *Revista Iberoamericana de Educación*.
+- Bruner, J. (1986). *Actual Minds, Possible Worlds*. Harvard University Press.
+- Egan, K. (1989). *Teaching as Storytelling*. University of Chicago Press.
+- Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (Expanded 2nd ed.). ASCD.
+- Wood, D., Bruner, J., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89-100.
+- Papert, S. (1980). *Mindstorms: Children, Computers, and Powerful Ideas*. Basic Books.
+- Noddings, N. (1984). *Caring: A Feminine Approach to Ethics and Moral Education*. University of California Press.
+- Csikszentmihalyi, M. (1996). *Creativity: Flow and the Psychology of Discovery and Invention*. HarperCollins.
+- Hattie, J. (2009). *Visible Learning*. Routledge.
+- Rowe, M. B. (1986). Wait Time: Slowing Down May Be A Way of Speeding Up. *Journal of Teacher Education, 37*(1), 43-50.
+- Schwab, J. J. (1962). *The teaching of science as enquiry*. Harvard University Press.
+- Vesely-Maillefer, A. K., & Schoeps, K. (2020). The TRUST Test: Validation studies. *Journal of Educational Measurement*.
+- Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In *Handbook of self-regulation*. Academic Press.
 
 ## Citas pendientes de verificación
 

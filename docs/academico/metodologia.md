@@ -45,7 +45,7 @@
 
 === "Nivel 3 — Intervención reflexiva"
 
-    - **Cuatro categorías de resaltado** (importante / duda / inspiración / insight), mutuamente excluyentes en el momento de la marcación
+    - **Cuatro categorías de Labeling Cognitivo** (Recordar, Clarificar, Conectar, Cuestionar), mutuamente excluyentes en el momento del marcado, más una **nota propia** de la docente sobre cada marca
     - **Comments** (texto o voz transcrita)
     - **Mini-pizarra (InterventionCanvas)** con postits, stickers semánticos, cajas de texto, notas de voz, dibujos
 

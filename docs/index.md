@@ -120,11 +120,11 @@ hide:
 
 ## Cómo navegar
 
-??? tip "¿Te perdés? Empezá por acá"
-    1. **Si sos del equipo y querés saber tu siguiente paso:** click en tu persona arriba (Berenice / Sebas / Agus / Steven).
-    2. **Si querés ver qué falta cargar al formulario ANII:** [Checklist formulario ANII](tablero/checklist-anii.md).
-    3. **Si querés saber en qué estado está todo:** [Estado del proyecto](donde-estamos/estado.md).
-    4. **Si querés profundizar académicamente:** [Profundización académica](academico/propuesta-completa.md).
+??? tip "¿Te pierdes? Empieza por aquí"
+    1. **Si eres del equipo y quieres saber tu siguiente paso:** click en tu persona arriba (Berenice / Sebas / Agus / Steven).
+    2. **Si quieres ver qué falta cargar al formulario ANII:** [Checklist formulario ANII](tablero/checklist-anii.md).
+    3. **Si quieres saber en qué estado está todo:** [Estado del proyecto](donde-estamos/estado.md).
+    4. **Si quieres profundizar académicamente:** [Profundización académica](academico/propuesta-completa.md).
 
 ---
 
