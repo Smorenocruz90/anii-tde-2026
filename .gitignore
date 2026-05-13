@@ -35,6 +35,7 @@ Thumbs.db
 .claude/commands/*.md
 !.claude/commands/.gitkeep
 .claude/plugins/
+.claude/settings.local.json
 
 # Backup files
 *.bak
