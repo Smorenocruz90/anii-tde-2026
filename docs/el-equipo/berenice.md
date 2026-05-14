@@ -7,10 +7,10 @@
 Eres el ancla académica del proyecto. Tu trayectoria post-doctoral en investigación educativa en RD y tu perspectiva docente son la solvencia científica que el filtro A.2 evalúa, y son el motor del diseño metodológico y del análisis.
 
 !!! info "Tu lugar en el formulario ANII"
-    Sos la **única responsable técnico-científica** del proyecto y la única persona del equipo con grado doctoral y afiliación universitaria activa. Esto no es accesorio: es lo que hace al proyecto fundable. El resto del equipo (Sebas, Agus, Steven) figura como **colaboradores operativos de Critertec**, no como investigadores. Sólo el junior a contratar suma como investigador asistente bajo tu mentoría.
+    Eres la **única responsable técnico-científica** del proyecto y la única persona del equipo con grado doctoral y afiliación universitaria activa. Esto no es accesorio: es lo que hace al proyecto fundable. El resto del equipo (Sebas, Agus, Steven) figura como **colaboradores operativos de Critertec**, no como investigadores. Sólo el junior a contratar suma como investigador asistente bajo tu mentoría.
 
 !!! danger "La universidad participante es la tuya"
-    El proyecto requiere una universidad participante como organización académica responsable del aval IRB y del honest broker. **Esa universidad es la tuya** —donde trabajás como afiliada. Sin tu intermediación interna no hay convenio. Sebas acompaña administrativamente, pero el cierre depende de ti.
+    El proyecto requiere una universidad participante como organización académica responsable del aval IRB y del honest broker. **Esa universidad es la tuya** —donde trabajas como afiliada—. Sin tu intermediación interna no hay convenio. Sebas acompaña administrativamente, pero el cierre depende de ti.
 
 ## Lo que haces
 
@@ -65,7 +65,7 @@ Eres el ancla académica del proyecto. Tu trayectoria post-doctoral en investiga
 
 ## Tu interlocutor principal
 
-**Sebas** (Director del proyecto · CEO Critertec) para todo lo operativo, institucional, presupuestal y de coordinación con MINERD/INDOTEL/BID. La separación funcional es nítida: vos cuidás el rigor científico y la integridad académica —decisiones científicas, metodológicas y firma final del diseño—; Sebas cuida la ejecución operativa, el presupuesto, la administración ANII y la articulación institucional. Las decisiones de scope o presupuesto pasan por el comité directivo (vos + Sebas + referente universidad participante cuando se sume).
+**Sebas** (Director del proyecto · CEO Critertec) para todo lo operativo, institucional, presupuestal y de coordinación con MINERD/INDOTEL/BID. La separación funcional es nítida: tú cuidas el rigor científico y la integridad académica —decisiones científicas, metodológicas y firma final del diseño—; Sebas cuida la ejecución operativa, el presupuesto, la administración ANII y la articulación institucional. Las decisiones de scope o presupuesto pasan por el comité directivo (tú + Sebas + referente universidad participante cuando se sume).
 
 ---
 

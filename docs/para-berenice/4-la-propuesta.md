@@ -6,7 +6,7 @@
 </div>
 
 !!! info "Para profundizar"
-    Esta página resume la propuesta en lo esencial. Si querés el texto completo de las 15 textareas + 3 tablas que se cargan al formulario ANII, está en [Tablero → Checklist formulario ANII](../tablero/checklist-anii.md) y en el archivo `propuesta_v2_consolidada.md` del repo.
+    Esta página resume la propuesta en lo esencial. Si quieres el texto completo de las 15 textareas + 3 tablas que se cargan al formulario ANII, está en [Tablero → Checklist formulario ANII](../tablero/checklist-anii.md) y en el archivo `propuesta_v2_consolidada.md` del repo.
 
 ## Pregunta de investigación
 
@@ -50,9 +50,9 @@
 **Análisis cuantitativo:** Latent Class Analysis con 3-5 clases máximo, asociaciones bivariadas pre-post, estadísticos descriptivos del SJT.
 
 !!! warning "Pendiente re-calibrar"
-    En el [Paso 3](3-lo-critico.md) viste que esta sección depende de tu decisión sobre **LCA vs perfiles latentes simples** (deadline 31 may). Si pivotamos, hay que re-redactar este párrafo y ajustar OE1.
+    En el [Paso 3](3-lo-critico.md) viste que esta sección depende de tu decisión sobre **LCA vs perfiles latentes simples** (plazo 31 may). Si pivotamos, hay que re-redactar este párrafo y ajustar OE1.
 
-**Análisis cualitativo:** codificación temática inductiva con doble codificación independiente (vos + junior) y kappa de Cohen. **Pre-registro del protocolo en Open Science Framework antes de la recolección.**
+**Análisis cualitativo:** codificación temática inductiva con doble codificación independiente (tú + junior) y kappa de Cohen. **Pre-registro del protocolo en Open Science Framework antes de la recolección.**
 
 ## El cuaderno como dispositivo (la pieza innovadora)
 

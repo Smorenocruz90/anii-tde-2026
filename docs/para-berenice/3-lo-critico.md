@@ -6,7 +6,7 @@
 </div>
 
 !!! danger "Lo que no avanza sin tu decisión"
-    Estas son las **5 decisiones científicas y estratégicas** que sólo vos podés tomar. Cada una tiene un plazo. Si alguna se atrasa, el cierre del 11 de junio se mueve.
+    Estas son las **5 decisiones científicas y estratégicas** que sólo tú puedes tomar. Cada una tiene un plazo. Si alguna se atrasa, el cierre del 11 de junio se mueve.
 
 ## Decisión 1 · Universidad participante (la tuya)
 
@@ -25,9 +25,9 @@
 - **Definición del referente académico** de la universidad que actuará como coautor y nexo del honest broker
 - **Compromiso del IRB** de tu universidad para revisar el protocolo en M1
 
-**Por qué te toca a vos:**
+**Por qué te toca a ti:**
 
-Esta es **tu universidad** —donde trabajás como afiliada—. Sin tu intermediación interna no hay convenio. Sebas no tiene canal con la autoridad académica de tu universidad; vos sí. El acompañamiento de Sebas es administrativo (redacción del convenio, firma desde Critertec, gestión de tiempos).
+Esta es **tu universidad** —donde trabajas como afiliada—. Sin tu intermediación interna no hay convenio. Sebas no tiene canal con la autoridad académica de tu universidad; tú sí. El acompañamiento de Sebas es administrativo (redacción del convenio, firma desde Critertec, gestión de tiempos).
 
 **Qué pasa si no se cierra:**
 
@@ -65,7 +65,7 @@ El cuaderno digital es producto de Critertec. El framework de las 4 categorías 
 - La universidad **también** valida el itinerario formativo antes del freeze
 - Lo recomienda el panel en su hallazgo crítico #1 (CoI estructural)
 
-**Lo que tenés que decidir:**
+**Lo que tienes que decidir:**
 
 Si la universidad participante (tu universidad) tiene capacidad y tiempo para hacer el design lock antes del freeze de M0 (oct 2026). Si sí → Opción B (mejor mitigación pero más carga). Si no → Opción A (status quo, requiere reforzar otras mitigaciones).
 
@@ -93,9 +93,9 @@ N inicial = 120 docentes. Mortalidad esperada 25-35% → **N final ≈ 80**. El 
 | **B. Perfiles latentes simples** (k-modes / cluster jerárquico sobre patrones de marcado) | Algoritmo descriptivo más robusto a N pequeño | Defendible con N=80 | Hay que re-redactar 4.3.1 + ajustar OE1 |
 | **C. Mantener LCA pero con plan de contingencia explícito** | Si N<60 al cierre de M5, switch a B | Flexible | Requiere árbol de decisión documentado |
 
-**Lo que tenés que decidir:**
+**Lo que tienes que decidir:**
 
-Si pivotamos a B desde ya (más conservador, mejor defensa frente al revisor) o si mantenemos LCA con un plan de contingencia C (más ambicioso, mayor riesgo). **Si decidís B, hay que re-redactar la sección 4.3.1 antes del 3 jun.**
+Si pivotamos a B desde ya (más conservador, mejor defensa frente al revisor) o si mantenemos LCA con un plan de contingencia C (más ambicioso, mayor riesgo). **Si decides B, hay que re-redactar la sección 4.3.1 antes del 3 jun.**
 
 ---
 
@@ -128,7 +128,7 @@ La escala Tschannen-Moran de autoeficacia docente está validada para autoeficac
 - Pros: específico al dominio, defensa científica más fuerte
 - Contras: requiere panel (~USD 1.000-1.500 presupuesto), tiempo adicional en M1, hay que decir explícitamente que es exploratorio
 
-**Lo que tenés que decidir:**
+**Lo que tienes que decidir:**
 
 A o B. Si B, Sebas necesita el costo del panel para meterlo en presupuesto antes del 31 may.
 
@@ -144,7 +144,7 @@ A o B. Si B, Sebas necesita el costo del panel para meterlo en presupuesto antes
   <div class="decision-title">Firmar v2.1 como lista para submission</div>
 </div>
 
-**Qué firmás:**
+**Qué firmas:**
 
 - El texto definitivo de las 15 textareas + 3 tablas del formulario
 - El diseño metodológico re-calibrado (post decisiones 1-4)
@@ -158,13 +158,13 @@ Sebas + Agus producen el documento v2.1 consolidado entre el 3 y el 6 de junio. 
 
 **Margen de revisión:**
 
-3 días (8 al 11 de junio) para que vos puedas devolver observaciones de última hora si las hubiera. **No te aproveches todo el margen — Sebas necesita 24h previas al cierre para cargar todo al formulario.**
+3 días (8 al 11 de junio) para que puedas devolver observaciones de última hora si las hubiera. **No aproveches todo el margen — Sebas necesita 24h previas al cierre para cargar todo al formulario.**
 
 ---
 
 ## Cosas que NO te tocan a ti
 
-Para que el inventario quede claro: estas son **decisiones de Sebas** (no tuyas), aunque lleven tu input:
+Para que el inventario quede claro, estas son **decisiones de Sebas** (no tuyas), aunque lleven tu input:
 
 - ✅ Presupuesto detallado y desglose por rubro
 - ✅ Modalidad de contratación del investigador junior

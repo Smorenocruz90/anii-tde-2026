@@ -15,7 +15,7 @@ hide:
 <div class="berenice-banner" markdown>
   <div class="berenice-banner-icon">👩‍🏫</div>
   <div class="berenice-banner-body" markdown>
-**¿Sos Berenice? Empezá por acá →**
+**¿Eres Berenice? Empieza por aquí →**
 
 Recorrido guiado de 6 pasos (~30 min) para que entiendas el estado del proyecto, las decisiones que dependen de ti y los próximos pasos hasta el cierre del 11 de junio.
   </div>
@@ -51,22 +51,6 @@ Recorrido guiado de 6 pasos (~30 min) para que entiendas el estado del proyecto,
   <div class="kpi-value">⚠</div>
   <div class="kpi-sub"><strong>Substantial revision required</strong> — no fundable tal como está</div>
 </div>
-
-</div>
-
-## Tu siguiente paso (por persona)
-
-<div class="person-grid" markdown>
-
-[<div class="avatar">👩‍🏫</div><div class="name">Berenice</div><div class="role">PI · única T-C · PhD</div><div class="pending">3 decisiones críticas</div>](el-equipo/berenice.md){ .person-card }
-
-[<div class="avatar">👨‍💼</div><div class="name">Sebas</div><div class="role">Director · admin-estratégico</div><div class="pending">4 bloqueantes esta semana</div>](el-equipo/sebas.md){ .person-card }
-
-[<div class="avatar">👩‍🎨</div><div class="name">Agus</div><div class="role">Colab. pedagógica · UX</div><div class="pending">2 entregas para 31 may</div>](el-equipo/agus.md){ .person-card }
-
-[<div class="avatar">👨‍💻</div><div class="name">Steven</div><div class="role">Colab. técnico · Data eng</div><div class="pending">ADR pendiente</div>](el-equipo/steven.md){ .person-card }
-
-[<div class="avatar">🎓</div><div class="name">Junior</div><div class="role">Investigador a contratar</div><div class="pending">M0 oct 2026</div>](el-equipo/junior.md){ .person-card }
 
 </div>
 
@@ -132,12 +116,12 @@ Recorrido guiado de 6 pasos (~30 min) para que entiendas el estado del proyecto,
 
 ## Cómo navegar
 
-??? tip "¿Te perdés? Empezá por acá"
-    1. **Si sos Berenice (PI):** seguí el [recorrido guiado de 6 pasos](para-berenice/index.md) — pensado específicamente para ti.
-    2. **Si sos del equipo y querés saber tu próximo paso:** click en tu persona arriba (Berenice / Sebas / Agus / Steven).
-    3. **Si querés ver qué falta cargar al formulario ANII:** [Checklist formulario ANII](tablero/checklist-anii.md).
-    4. **Si querés saber en qué estado está todo:** [Estado del proyecto](donde-estamos/estado.md).
-    5. **Si querés profundizar académicamente:** [Profundización académica](academico/propuesta-completa.md).
+??? tip "¿Te pierdes? Empieza por aquí"
+    1. **Si eres Berenice (PI):** sigue el [recorrido guiado de 6 pasos](para-berenice/index.md) — pensado específicamente para ti.
+    2. **Si eres del equipo y quieres saber tu próximo paso:** entra a tu página personal desde [El equipo](el-equipo/roles.md).
+    3. **Si quieres ver qué falta cargar al formulario ANII:** [Checklist formulario ANII](tablero/checklist-anii.md).
+    4. **Si quieres saber en qué estado está todo:** [Estado del proyecto](donde-estamos/estado.md).
+    5. **Si quieres profundizar académicamente:** [Profundización académica](academico/propuesta-completa.md).
 
 ---
 

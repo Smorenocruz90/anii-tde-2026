@@ -7,22 +7,22 @@ hide:
 
 <div class="wizard-hero" markdown>
   <div class="wizard-hero-label">RECORRIDO GUIADO · PARA BERENICE</div>
-  <div class="wizard-hero-title">Todo lo que necesitás saber del proyecto ANII en 30 minutos</div>
+  <div class="wizard-hero-title">Todo lo que necesitas saber del proyecto ANII en 30 minutos</div>
   <div class="wizard-hero-sub">Un recorrido de 6 pasos para que puedas entender el estado del proyecto, las decisiones que dependen de ti y los próximos pasos hasta el cierre del 11 de junio.</div>
 </div>
 
 ## ¿Por qué este recorrido?
 
-Sos la **única responsable técnico-científica del proyecto** y la única persona del equipo con grado doctoral y afiliación universitaria activa. Buena parte de lo que falta para sacar la propuesta adelante depende de tu decisión.
+Eres la **única responsable técnico-científica del proyecto** y la única persona del equipo con grado doctoral y afiliación universitaria activa. Buena parte de lo que falta para sacar la propuesta adelante depende de tu decisión.
 
 Este sitio existe como espacio de trabajo interno del equipo. Tiene mucho contenido (páginas para cada miembro, tablero de control, profundización académica, propuesta completa). **Este recorrido te lleva por lo esencial en orden**, sin que tengas que adivinar por dónde empezar.
 
 !!! tip "Cómo usarlo"
-    - Leé de arriba abajo cada paso (no necesariamente todos los enlaces secundarios)
-    - Usá los botones **Siguiente** y **Anterior** al final de cada página
-    - Si querés profundizar algo, los enlaces te llevan a las secciones del sitio
+    - Lee de arriba abajo cada paso (no necesariamente todos los enlaces secundarios)
+    - Usa los botones **Siguiente** y **Anterior** al final de cada página
+    - Si quieres profundizar algo, los enlaces te llevan a las secciones del sitio
     - Tiempo estimado total: ~30 minutos
-    - Si te interrumpen, podés retomar desde la barra lateral
+    - Si te interrumpen, puedes retomar desde la barra lateral
 
 ## Mapa del recorrido
 
@@ -51,7 +51,7 @@ Pregunta, objetivos, diseño metodológico, el cuaderno como dispositivo.
 
 <div class="wizard-step" markdown>
 **Paso 5 · Tus 17 observaciones, resueltas**
-Cómo se resolvió cada una de las 17 observaciones que diste en v1.1.
+Cómo se resolvió cada una de las 17 observaciones que dejaste en v1.1.
 </div>
 
 <div class="wizard-step" markdown>
@@ -64,8 +64,8 @@ Calendario con plazos y decisiones bloqueantes hasta el cierre.
 ## Tu rol en este proyecto
 
 !!! info "Lo que pone este proyecto sobre tu mesa"
-    - **Responsable técnico-científica única** — toda decisión científica y la firma final del diseño dependen de vos
-    - **Cierre del convenio con tu universidad** como organización participante del proyecto (vos liderás, Sebas acompaña administrativamente)
+    - **Responsable técnico-científica única** — toda decisión científica y la firma final del diseño dependen de ti
+    - **Cierre del convenio con tu universidad** como organización participante del proyecto (tú lideras, Sebas acompaña administrativamente)
     - **Honest broker académico** — tu universidad ejecuta los análisis sensibles (LCA, bivariadas, kappa) sobre el dataset anonimizado que entrega Critertec
     - **Aval IRB** vía tu afiliación universitaria
     - **Primera autoría** del manuscrito y del documento metodológico abierto

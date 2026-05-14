@@ -64,7 +64,7 @@ graph LR
     style OPE fill:#fff3e0
 ```
 
-- **Vos sos la única investigadora T-C** del proyecto, con tu universidad como organización participante (aval IRB + honest broker)
+- **Eres la única investigadora T-C** del proyecto, con tu universidad como organización participante (aval IRB + honest broker)
 - **El junior a contratar** se incorpora bajo tu mentoría como investigador asistente
 - **Sebas, Agus y Steven** son **colaboradores operativos de Critertec**, no investigadores; aportan dirección admin-estratégica, pedagogía/producto y captura técnica del log
 

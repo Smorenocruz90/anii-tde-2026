@@ -5,8 +5,8 @@
   <div class="wizard-progress-bar"><div class="wizard-progress-fill" style="width: 100%"></div></div>
 </div>
 
-!!! success "Si llegaste hasta acá"
-    Ya tenés el panorama completo. Esta página es tu **agenda operativa** hasta el cierre. Acá vas a encontrar el calendario de plazos por semana, con foco en lo que vos tenés que entregar.
+!!! success "Si llegaste hasta aquí"
+    Ya tienes el panorama completo. Esta página es tu **agenda operativa** hasta el cierre. Aquí encontrarás el calendario de plazos por semana, con foco en lo que tienes que entregar.
 
 ## Esta semana (14–20 may)
 
@@ -69,7 +69,7 @@ Si pivotamos a B, hay que re-redactar 4.3.1 antes del 3 jun. Si mantenemos LCA c
 <div class="timeline-task major" markdown>
 **🟡 Re-redactar 4.3.1 (si pivotaste)**
 *Plazo: 3 jun*
-La sección Diseño y metodología re-calibrada con plan analítico actualizado. Te lo redacto en borrador y vos firmás.
+La sección Diseño y metodología re-calibrada con plan analítico actualizado. El equipo lo redacta en borrador y tú firmas.
 </div>
 
 <div class="timeline-task" markdown>
@@ -130,7 +130,7 @@ Sebas carga el formulario online ANII con tu v2.1 firmada.
 
 ## Lo que no es tu problema
 
-Para evitar dispersión, te recordamos lo que **NO te toca a vos**:
+Para evitar dispersión, recordemos lo que **NO te toca a ti**:
 
 - ❌ Presupuesto detallado (Sebas + Agus + Steven)
 - ❌ Gantt semanal operativo (Sebas)
@@ -141,9 +141,9 @@ Para evitar dispersión, te recordamos lo que **NO te toca a vos**:
 - ❌ Carga técnica del formulario online ANII (Sebas)
 - ❌ Submission final el 11 jun (Sebas)
 
-**Tu input ayuda** en algunas de estas (FTE académico, validar coherencia científica del cronograma), pero **las decisiones son de Sebas**.
+**Tu aporte ayuda** en algunas de estas (FTE académico, validar coherencia científica del cronograma), pero **las decisiones son de Sebas**.
 
-## Si querés profundizar más
+## Si quieres profundizar más
 
 <div class="grid cards" markdown>
 
@@ -178,7 +178,7 @@ Para evitar dispersión, te recordamos lo que **NO te toca a vos**:
 <div class="wizard-cta" markdown>
 **Llegaste al final del recorrido.**
 
-Si necesitás repasar algo, podés volver a cualquier paso desde la barra lateral. Si tenés observaciones, escribilas y pasáselas a Sebas para integrar.
+Si necesitas repasar algo, puedes volver a cualquier paso desde la barra lateral. Si tienes observaciones, anótalas y pásalas a Sebas para integrar.
 
 [← Volver al inicio del recorrido](index.md){ .md-button }
 </div>

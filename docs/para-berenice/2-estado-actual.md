@@ -168,7 +168,7 @@ Los **5 hallazgos más críticos** (los que pueden hundir la propuesta si no se 
 
 ## En resumen
 
-La parte **textual** de la propuesta está esencialmente lista. Los **gaps reales** son: convenio universidad (tuyo + admin de Sebas), decisiones científicas (tuyas), presupuesto y Gantt (de Sebas). El siguiente paso te muestra qué te toca específicamente a vos.
+La parte **textual** de la propuesta está esencialmente lista. Los **gaps reales** son: convenio universidad (tuyo + admin de Sebas), decisiones científicas (tuyas), presupuesto y Gantt (de Sebas). El siguiente paso te muestra qué te toca específicamente a ti.
 
 ---
 

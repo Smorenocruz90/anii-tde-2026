@@ -6,7 +6,7 @@
 </div>
 
 !!! info "Sobre este paso"
-    El 13 de mayo nos diste 17 observaciones detalladas sobre la versión v1.1. Las usamos como hoja de ruta para reescribir la v2.0. Acá tenés **las 17 con el rastreo a la sección donde se resolvieron**. El detalle completo de cada observación (texto original) está en [Profundización académica → Feedback del revisor](../academico/feedback-revisor.md).
+    El 13 de mayo el equipo recibió 17 observaciones detalladas sobre la versión v1.1. Las usamos como hoja de ruta para reescribir la v2.0. Aquí tienes **las 17 con el rastreo a la sección donde se resolvieron**. El detalle completo de cada observación (texto original) está en [Profundización académica → Feedback del revisor](../academico/feedback-revisor.md).
 
 ## Resumen: 17/17 abordadas
 
@@ -60,14 +60,14 @@ Sin resolver
 ### Pregunta y objetivos (1, 2)
 
 ??? success "1. Pregunta compuesta"
-    **Tu crítica original:** la pregunta v1.1 mezclaba 4 objetos: patrones de intervención + agencia + autoeficacia + uso pedagógico. Necesitaba desagregarse o reducirse a un solo objeto.
+    **Crítica original:** la pregunta v1.1 mezclaba 4 objetos: patrones de intervención + agencia + autoeficacia + uso pedagógico. Necesitaba desagregarse o reducirse a un solo objeto.
 
     **Resolución v2.0:** pregunta principal con **un único objeto** (tipologías de intervención) + 2 sub-preguntas que toman los otros objetos. Carácter exploratorio explícito.
 
     **Dónde:** [Paso 4 · La propuesta · Pregunta de investigación](4-la-propuesta.md#pregunta-de-investigacion) · [Pregunta y modelo](../academico/pregunta-y-modelo.md)
 
 ??? success "2. Objetivo general sobre-prometido"
-    **Tu crítica original:** "Generar evidencia + fortalecer agencia + soberanía digital + protocolo regional" excede lo factible en 9 meses con N≈120 en un país.
+    **Crítica original:** "Generar evidencia + fortalecer agencia + soberanía digital + protocolo regional" excede lo factible en 9 meses con N≈120 en un país.
 
     **Resolución v2.0:** objetivo general reescrito a *"caracterizar tipologías + explorar asociaciones con autoeficacia/motivación/transferencia + producir documento metodológico abierto"*. Se eliminaron "agencia + soberanía digital + protocolo regional" como deliverables empíricos del proyecto. Esos quedan como **contribuciones más amplias** mencionadas en 4.7.1, no como objetivos comprometidos.
 
@@ -76,33 +76,33 @@ Sin resolver
 ### Variables, instrumentos, definiciones operativas (4, 5, 6, 12, 13)
 
 ??? success "4. SJT-POV sin validación psicométrica como variable central"
-    **Tu crítica original:** el SJT-POV se usaba como variable predictora sin validación. Riesgo metodológico.
+    **Crítica original:** el SJT-POV se usaba como variable predictora sin validación. Riesgo metodológico.
 
     **Resolución v2.0:** SJT-POV bajado a **caracterización descriptiva de cohorte** (no predictor). OE4 elimina la validación del SJT como objetivo del proyecto.
 
     **Dónde:** [Paso 4 · Diseño metodológico](4-la-propuesta.md#diseño-metodológico-versión-v20-actual)
 
 ??? success "5. Claridad conceptual de variables e instrumentos"
-    **Tu crítica original:** faltaba tabla limpia con constructo + instrumento + momento + rol analítico.
+    **Crítica original:** faltaba tabla limpia con constructo + instrumento + momento + rol analítico.
 
     **Resolución v2.0:** 4.3.1 contiene la información organizada por nivel del modelo (acceso/interacción/intervención/transferencia/apropiación). Versión tabular incluida en el [Paso 4](4-la-propuesta.md#diseño-metodológico-versión-v20-actual).
 
 ??? success "6. Intervención pedagógica sin definición operativa"
-    **Tu crítica original:** las 4 categorías (duda/inspiración/importante/insight de v1.1) estaban débilmente fundamentadas. Necesitaban anclaje conceptual.
+    **Crítica original:** las 4 categorías (duda/inspiración/importante/insight de v1.1) estaban débilmente fundamentadas. Necesitaban anclaje conceptual.
 
     **Resolución v2.0:** marco teórico de las 4 categorías **ahora ancladas en tradiciones externas** (Adler 1940, Marshall 1997, Palincsar & Brown 1984, Hattan et al. 2024, Ausubel 1968, Engle & Conant 2002). Las categorías se renombraron a **Labeling Cognitivo: Recordar, Clarificar, Conectar, Cuestionar** en el último commit.
 
     **Dónde:** [Paso 4 · Las 4 categorías](4-la-propuesta.md#el-cuaderno-como-dispositivo-la-pieza-innovadora) · [Marco teórico](../academico/marco-teorico.md)
 
 ??? success "12. No diferencian adopción / uso / apropiación / aprendizaje"
-    **Tu crítica original:** adoptar modelo de niveles: acceso → interacción → intervención reflexiva → transferencia a la práctica → apropiación pedagógica.
+    **Crítica original:** adoptar modelo de niveles: acceso → interacción → intervención reflexiva → transferencia a la práctica → apropiación pedagógica.
 
     **Resolución v2.0:** modelo de cinco niveles operacionalizado, cada uno con su indicador e instrumento. Es el esqueleto del análisis.
 
     **Dónde:** [Paso 4 · Modelo de 5 niveles](4-la-propuesta.md#diseño-metodológico-versión-v20-actual) · [Pregunta y modelo](../academico/pregunta-y-modelo.md)
 
 ??? warning "13. Lenguaje causal sin diseño causal · TENSIÓN PENDIENTE"
-    **Tu crítica original:** sustituir "efectividad" / "estrategias efectivas" por "patrones asociados" o "condiciones que favorecen".
+    **Crítica original:** sustituir "efectividad" / "estrategias efectivas" por "patrones asociados" o "condiciones que favorecen".
 
     **Resolución v2.0:** toda la propuesta usa "se asocian / asociaciones / exploratorio / caracterizar / condiciones que favorecen". Ningún verbo causal fuerte.
 
@@ -111,14 +111,14 @@ Sin resolver
 ### El cuaderno digital como dispositivo (8, 17)
 
 ??? success "8. Mecanismo de apropiación no explicado"
-    **Tu crítica original:** faltaba el modelo causal-funcional de cómo el cuaderno produce apropiación pedagógica.
+    **Crítica original:** faltaba el modelo causal-funcional de cómo el cuaderno produce apropiación pedagógica.
 
     **Resolución v2.0:** modelo de cinco niveles funciona como esqueleto descriptivo-organizativo. 4.5.1 tiene sección dedicada al cuaderno como dispositivo.
 
     **Dónde:** [Paso 4 · El cuaderno como dispositivo](4-la-propuesta.md#el-cuaderno-como-dispositivo-la-pieza-innovadora)
 
 ??? success "17. Sección dedicada al cuaderno digital como dispositivo metodológico"
-    **Tu crítica original:** faltaba sección dedicada que respondiera 7 sub-preguntas: qué es, para qué, usos previos, qué captura, interpretación pedagógica, relevancia D.II, punto de innovación.
+    **Crítica original:** faltaba sección dedicada que respondiera 7 sub-preguntas: qué es, para qué, usos previos, qué captura, interpretación pedagógica, relevancia D.II, punto de innovación.
 
     **Resolución v2.0:** 4.5.1 (432/500 palabras) es esa sección, con las 7 sub-preguntas respondidas. Responde explícitamente a:
 
@@ -135,7 +135,7 @@ Sin resolver
 ### Transferencia al aula (7)
 
 ??? success "7. Uso pedagógico real no demostrado por logs"
-    **Tu crítica original:** los logs muestran interacción digital, no transferencia al aula. Requería complemento metodológico.
+    **Crítica original:** los logs muestran interacción digital, no transferencia al aula. Requería complemento metodológico.
 
     **Resolución v2.0:** Nivel 4 del modelo separado explícitamente, con tres instrumentos diferenciados:
 
@@ -146,21 +146,21 @@ Sin resolver
 ### Muestra, generalización, alcance (3, 14)
 
 ??? warning "3. N=120 limitada para los análisis prometidos · TENSIÓN PENDIENTE"
-    **Tu crítica original:** LCA con 4-9 clases latentes y regresión multinivel sobre N final ≈80 (post-mortalidad) está apretado.
+    **Crítica original:** LCA con 4-9 clases latentes y regresión multinivel sobre N final ≈80 (post-mortalidad) está apretado.
 
     **Resolución v2.0:** análisis declarados explícitamente como **exploratorios**, no confirmatorios. LCA limitado a 3-5 clases máximo. Multinivel reemplazado por asociaciones bivariadas. Plan de contingencia con tres tramos según N final.
 
     **Tensión pendiente:** el panel /review-grant recomienda **pivotar a perfiles latentes simples**. Es una de las [5 decisiones críticas tuyas](3-lo-critico.md#decisión-3--plan-analítico-lca-vs-perfiles-latentes-simples), deadline 31 may.
 
 ??? success "14. Generalización regional sobreestimada"
-    **Tu crítica original:** reformular como evidencia situada en RD con potencial de transferencia metodológica regional vía protocolo abierto, no generalización empírica.
+    **Crítica original:** reformular como evidencia situada en RD con potencial de transferencia metodológica regional vía protocolo abierto, no generalización empírica.
 
     **Resolución v2.0:** 4.5.2 separa explícitamente **"transferencia metodológica"** de **"generalización empírica"**. OG aclara "docentes dominicanas". OE4 reformulado a "documento metodológico abierto" en lugar de "protocolo replicable empíricamente".
 
 ### Diagnóstico y justificación de país (9)
 
 ??? success "9. Diagnóstico RD necesita datos duros y justificación de caso"
-    **Tu crítica original:** el dato Ceibal 2026 + cita anónima no alcanzaban. Faltaban datos MINERD, INDOTEL, Soy Digital, contraste con otros países.
+    **Crítica original:** el dato Ceibal 2026 + cita anónima no alcanzaban. Faltaban datos MINERD, INDOTEL, Soy Digital, contraste con otros países.
 
     **Resolución v2.0:** 4.1.1 incluye:
 
@@ -172,7 +172,7 @@ Sin resolver
 ### Soy Digital como pilar (15)
 
 ??? success "15. Alfabetización digital ciudadana ≠ competencia digital docente"
-    **Tu crítica original:** Soy Digital arma cohorte de ciudadanos digitales, no docentes pedagógicamente formados. Faltaba explicar: (a) cómo se identifica la sub-cohorte docente; (b) qué % son docentes; (c) cómo se adapta el foco hacia uso pedagógico de IA en aula.
+    **Crítica original:** Soy Digital arma cohorte de ciudadanos digitales, no docentes pedagógicamente formados. Faltaba explicar: (a) cómo se identifica la sub-cohorte docente; (b) qué % son docentes; (c) cómo se adapta el foco hacia uso pedagógico de IA en aula.
 
     **Resolución v2.0:** 4.1.2 explicita:
 
@@ -185,7 +185,7 @@ Sin resolver
 ### IP, sesgo y framework propio (11)
 
 ??? warning "11. Framework Criter demasiado visible → percepción de sesgo · TENSIÓN PENDIENTE"
-    **Tu crítica original:** si el instrumento es producto propio y el framework también, el revisor puede leerlo como "validan su propio producto".
+    **Crítica original:** si el instrumento es producto propio y el framework también, el revisor puede leerlo como "validan su propio producto".
 
     **Resolución v2.0:**
 
@@ -199,14 +199,14 @@ Sin resolver
 ### Outputs y compromisos (10)
 
 ??? success "10. 'Paper publicado' como compromiso es riesgoso"
-    **Tu crítica original:** los tiempos editoriales escapan al control. Reemplazar por "manuscrito sometido".
+    **Crítica original:** los tiempos editoriales escapan al control. Reemplazar por "manuscrito sometido".
 
     **Resolución v2.0:** compromiso reformulado a **"manuscrito sometido a revista indexada"** + depósito de preprint en repositorio abierto con DOI citable. Explicitado en 4.5.3, 4.7.2 (como riesgo y mitigación) y 4.9.2.
 
 ### Implicaciones aplicadas (16)
 
 ??? success "16. Explicitar implicaciones para política y diseño"
-    **Tu crítica original:** explicitar cómo los hallazgos pueden informar formación docente continua, diseño de plataformas, protocolos de acompañamiento, políticas de IA educativa.
+    **Crítica original:** explicitar cómo los hallazgos pueden informar formación docente continua, diseño de plataformas, protocolos de acompañamiento, políticas de IA educativa.
 
     **Resolución v2.0:**
 

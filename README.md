@@ -105,7 +105,7 @@ Para previsualizar el sitio localmente antes de pushear:
 
 - Python 3.10 o superior
 
-Si no tenés Python instalado en Windows, instalarlo vía:
+Si no tienes Python instalado en Windows, instalarlo vía:
 ```powershell
 winget install Python.Python.3.12
 ```
