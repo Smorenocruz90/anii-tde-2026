@@ -2,9 +2,12 @@
 
 ## Tu rol
 
-**Investigador / Consultor · Data engineering · Captura del log observacional.**
+**Colaborador técnico · Data engineering · Captura del log observacional (equipo Critertec).**
 
-Eres quien garantiza que el cuaderno digital efectivamente capture lo que la docente hace, lo persista de manera anonimizada y auditable, y lo entregue como dataset usable al honest broker para análisis. La integridad del dato pasa por ti.
+Eres quien garantiza que el cuaderno digital efectivamente capture lo que la docente hace, lo persista de manera anonimizada y auditable, y lo entregue como dataset usable a la universidad participante (honest broker académico) para análisis. La integridad del dato pasa por ti.
+
+!!! info "Tu lugar en el formulario ANII"
+    Apareces como **colaborador técnico del equipo de Critertec** (data engineering), no como investigador técnico-científico. Berenice es la única responsable técnico-científica del proyecto. Tu aporte ingenieril es crítico para la operación del estudio y la integridad del dato, pero las decisiones metodológicas y el análisis sensible las conduce Berenice junto con la universidad participante.
 
 ## Lo que haces
 

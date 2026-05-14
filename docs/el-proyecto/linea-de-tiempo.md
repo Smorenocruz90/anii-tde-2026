@@ -30,7 +30,7 @@ gantt
     Después de esta fecha el formulario online de ANII no acepta cambios.
 
 !!! warning "Hitos bloqueantes antes del cierre"
-    - Confirmación de universidad partner y carta aval firmada
+    - Confirmación de la universidad participante (donde trabaja Berenice) y carta aval firmada
     - Carta de respaldo institucional MINERD
     - CVUy completo de cada miembro del equipo cargado al formulario
     - Convenio honest broker (borrador anexado si no se firma)
@@ -70,12 +70,12 @@ gantt
 
 | Decisión | Quién decide | Cuándo |
 |----------|--------------|--------|
-| Universidad partner final | Sebas + Berenice | Antes del 27 may 2026 |
-| Re-arquitectura del CoI (¿comité asesor externo?) | Berenice + Sebas | Antes del 27 may 2026 |
+| Universidad participante (la de Berenice) | Berenice (lead) + Sebas (admin) | Antes del 27 may 2026 |
+| Re-arquitectura del CoI (¿comité asesor externo?) | Berenice | Antes del 27 may 2026 |
 | Re-calibración LCA → perfiles latentes simples | Berenice | Antes del 31 may 2026 |
 | Presupuesto detallado y FTE por persona | Sebas (con Agus y Steven) | Antes del 31 may 2026 |
-| Aprobación de v2.1 para envío | Berenice (lead científico) | Antes del 8 jun 2026 |
-| Submission final | Sebas (corresponsable técnico-científico) | 11 jun 2026 |
+| Aprobación de v2.1 para envío | Berenice (única responsable T-C) | Antes del 8 jun 2026 |
+| Submission final | Sebas (Director del proyecto) | 11 jun 2026 |
 
 ---
 

@@ -79,6 +79,14 @@ plugins:
 
 nav:
   - Inicio: index.md
+  - Para Berenice:
+    - para-berenice/index.md
+    - "Paso 1 · El proyecto": para-berenice/1-el-proyecto.md
+    - "Paso 2 · Estado actual": para-berenice/2-estado-actual.md
+    - "Paso 3 · Lo crítico de ti": para-berenice/3-lo-critico.md
+    - "Paso 4 · La propuesta": para-berenice/4-la-propuesta.md
+    - "Paso 5 · Tus 17 observaciones": para-berenice/5-respuestas-feedback.md
+    - "Paso 6 · Próximos pasos": para-berenice/6-proximos-pasos.md
   - Tablero de control:
     - tablero/index.md
     - tablero/checklist-anii.md

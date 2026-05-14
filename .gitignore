@@ -40,3 +40,9 @@ Thumbs.db
 # Backup files
 *.bak
 *~
+
+# BMAD framework install artifacts (instalados localmente, no committeados)
+.agents/
+_bmad/
+_bmad-output/
+design-artifacts/

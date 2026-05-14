@@ -2,9 +2,12 @@
 
 ## Tu rol
 
-**Investigadora · Coordinación pedagógica y de producto · UX.**
+**Colaboradora pedagógica · Coordinación de producto y UX (equipo Critertec).**
 
 Eres quien hace el puente entre el corazón pedagógico, el desarrollo de producto y la validación con docentes reales. En el proyecto eres la responsable de que el curso piloto sea pedagógicamente sólido y que el cuaderno digital ofrezca una experiencia de uso defendible frente a un panel académico.
+
+!!! info "Tu lugar en el formulario ANII"
+    Apareces como **colaboradora del equipo de Critertec** (pedagogía y producto), no como investigadora técnico-científica. Berenice es la única responsable técnico-científica del proyecto. Tu rol pedagógico es fundamental para la calidad del piloto y para la operacionalización de las categorías, pero el aval académico y las decisiones científicas las firma Berenice.
 
 ## Lo que haces
 

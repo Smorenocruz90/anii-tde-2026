@@ -54,13 +54,16 @@
 
 ## 3. RECURSOS HUMANOS
 
-| Rol formulario | Persona | CVUy |
-|----------------|---------|:----:|
-| Responsable técnico-científico | Berenice Pacheco-Salazar | <span class="badge badge-todo">TODO</span> |
-| Corresponsable técnico-científico | Sebastián Moreno Cruz | <span class="badge badge-todo">TODO</span> |
-| Investigador | Agustina Bussi | <span class="badge badge-todo">TODO</span> |
-| Investigador / Consultor | Steven | <span class="badge badge-todo">TODO</span> |
-| Investigador a contratar | A definir (Junior) | <span class="badge badge-info">N/A hasta contratación</span> |
+| Rol formulario | Persona | Vinculación | CVUy |
+|----------------|---------|-------------|:----:|
+| **Responsable técnico-científica (única investigadora T-C)** | Berenice Pacheco-Salazar | Universidad participante (PhD afiliada) | <span class="badge badge-todo">TODO</span> |
+| Director del proyecto · admin-estratégico | Sebastián Moreno Cruz | CEO Critertec Educación | <span class="badge badge-todo">TODO</span> |
+| Colaboradora pedagógica · Producto · UX | Agustina Bussi | Equipo Critertec | <span class="badge badge-todo">TODO</span> |
+| Colaborador técnico · Data engineering | Steven | Equipo Critertec | <span class="badge badge-todo">TODO</span> |
+| Investigador asistente a contratar (bajo mentoría de Berenice) | A definir (Junior) | Universidad participante | <span class="badge badge-info">N/A hasta contratación</span> |
+
+!!! abstract "Estructura técnico-científica"
+    **Únicos investigadores T-C del proyecto:** Berenice (PI) + Junior asistente (a contratar bajo mentoría de Berenice). El resto del equipo Critertec (Sebas, Agus, Steven) figura como colaboradores operativos, no como investigadores. Esta arquitectura protege la integridad académica del estudio y refuerza la mitigación del conflicto de interés con la universidad participante como honest broker.
 
 ---
 

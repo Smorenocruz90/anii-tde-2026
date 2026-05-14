@@ -254,3 +254,444 @@
 .status-icon.yellow { background: #f9a825; }
 .status-icon.red { background: #c62828; }
 .status-icon.gray { background: #757575; }
+
+/* ════════════════════════════════════════════════════════════
+   WIZARD — Recorrido "Para Berenice"
+   ════════════════════════════════════════════════════════════ */
+
+/* === Hero del wizard (index) === */
+
+.wizard-hero {
+  background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, #4527a0 50%, #00897b 100%);
+  color: white;
+  border-radius: 0.75rem;
+  padding: 2.5rem 2.5rem;
+  margin: 1.5rem 0 2.5rem 0;
+  text-align: left;
+  box-shadow: 0 8px 24px rgba(69, 39, 160, 0.18);
+}
+
+.wizard-hero-label {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  opacity: 0.88;
+  margin-bottom: 0.5rem;
+}
+
+.wizard-hero-title {
+  font-size: 1.85rem;
+  font-weight: 800;
+  line-height: 1.15;
+  margin: 0.5rem 0 0.85rem 0;
+}
+
+.wizard-hero-sub {
+  font-size: 1.05rem;
+  opacity: 0.95;
+  line-height: 1.5;
+  max-width: 60ch;
+}
+
+/* === Mapa de pasos (index) === */
+
+.wizard-map {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.wizard-step {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-left-color 0.15s ease;
+}
+
+.wizard-step:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  border-left-color: var(--md-accent-fg-color);
+}
+
+.wizard-step p {
+  margin: 0.35rem 0 !important;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.wizard-step p:first-child {
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  font-size: 1rem;
+}
+
+.wizard-step p:last-child {
+  font-size: 0.85rem;
+}
+
+.wizard-step a {
+  text-decoration: none !important;
+}
+
+/* === CTA wizard === */
+
+.wizard-cta {
+  text-align: center;
+  margin: 2rem 0 1rem 0;
+}
+
+.wizard-cta .md-button--lg {
+  padding: 0.85rem 2rem !important;
+  font-size: 1.05rem !important;
+  font-weight: 700;
+}
+
+.wizard-cta p:not(:has(a)) {
+  font-size: 1rem;
+  margin-bottom: 1rem !important;
+  color: var(--md-default-fg-color--light);
+}
+
+/* === Indicador de progreso (top de cada paso) === */
+
+.wizard-progress {
+  background: var(--md-code-bg-color);
+  border-radius: 0.5rem;
+  padding: 0.85rem 1.1rem;
+  margin: 0 0 2rem 0;
+  border-left: 4px solid var(--md-primary-fg-color);
+}
+
+.wizard-progress-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+}
+
+.wizard-progress-bar {
+  background: var(--md-default-fg-color--lightest);
+  border-radius: 0.25rem;
+  height: 0.45rem;
+  overflow: hidden;
+}
+
+.wizard-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--md-primary-fg-color), var(--md-accent-fg-color));
+  border-radius: 0.25rem;
+  transition: width 0.4s ease;
+}
+
+/* === Navegación Anterior/Siguiente === */
+
+.wizard-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2.5rem 0 1rem 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.wizard-nav a {
+  display: inline-block;
+  padding: 0.65rem 1.1rem;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.4rem;
+  text-decoration: none !important;
+  font-weight: 600;
+  font-size: 0.92rem;
+  transition: all 0.15s ease;
+  color: var(--md-default-fg-color) !important;
+}
+
+.wizard-nav a:hover {
+  border-color: var(--md-primary-fg-color);
+  background: var(--md-primary-fg-color);
+  color: white !important;
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+.wizard-nav a.wizard-next {
+  background: var(--md-primary-fg-color);
+  color: white !important;
+  border-color: var(--md-primary-fg-color);
+}
+
+.wizard-nav a.wizard-next:hover {
+  background: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+}
+
+/* === Decision cards (paso 3) === */
+
+.decision-card {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0;
+  border-left: 4px solid #757575;
+}
+
+.decision-card.critical {
+  border-left-color: #d32f2f;
+  background: linear-gradient(90deg, rgba(211, 47, 47, 0.04), transparent 80%);
+}
+
+.decision-card.major {
+  border-left-color: #ed6c02;
+  background: linear-gradient(90deg, rgba(237, 108, 2, 0.04), transparent 80%);
+}
+
+.decision-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.decision-tag {
+  display: inline-block;
+  padding: 0.18rem 0.6rem;
+  background: #d32f2f;
+  color: white;
+  border-radius: 1rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.decision-card.major .decision-tag {
+  background: #ed6c02;
+}
+
+.decision-deadline {
+  font-size: 0.82rem;
+  color: var(--md-default-fg-color--light);
+  font-weight: 600;
+}
+
+.decision-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--md-default-fg-color);
+  line-height: 1.35;
+}
+
+/* === Feedback summary (paso 5) === */
+
+.feedback-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.feedback-stat {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  padding: 1.25rem 1rem;
+  text-align: center;
+}
+
+.feedback-stat p {
+  margin: 0.15rem 0 !important;
+}
+
+.feedback-stat p:first-child {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1;
+  color: var(--md-primary-fg-color);
+}
+
+.feedback-stat p:last-child {
+  font-size: 0.82rem;
+  color: var(--md-default-fg-color--light);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+
+.feedback-stat.success p:first-child { color: #2e7d32; }
+.feedback-stat.warning p:first-child { color: #ed6c02; }
+.feedback-stat.info p:first-child { color: #0288d1; }
+
+/* === Timeline week blocks (paso 6) === */
+
+.timeline-week {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 1rem 0 2rem 0;
+}
+
+.timeline-task {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 4px solid var(--md-default-fg-color--lighter);
+  border-radius: 0.4rem;
+  padding: 0.85rem 1.1rem;
+}
+
+.timeline-task.urgent {
+  border-left-color: #d32f2f;
+}
+
+.timeline-task.major {
+  border-left-color: #ed6c02;
+}
+
+.timeline-task.critical {
+  border-left-color: #d32f2f;
+  background: linear-gradient(90deg, rgba(211, 47, 47, 0.06), transparent 60%);
+}
+
+.timeline-task p {
+  margin: 0.25rem 0 !important;
+  font-size: 0.93rem;
+  line-height: 1.5;
+}
+
+.timeline-task p:first-child {
+  font-weight: 700;
+  color: var(--md-default-fg-color);
+  font-size: 1rem;
+}
+
+.timeline-task p:nth-child(2) {
+  font-size: 0.82rem;
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
+
+/* === Mobile === */
+
+@media (max-width: 768px) {
+  .wizard-hero {
+    padding: 1.5rem 1.25rem;
+  }
+  .wizard-hero-title {
+    font-size: 1.45rem;
+  }
+  .wizard-nav {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .wizard-nav a {
+    text-align: center;
+  }
+  .decision-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+/* === Dark mode adjustments === */
+
+[data-md-color-scheme="slate"] .wizard-step {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+[data-md-color-scheme="slate"] .timeline-task {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+[data-md-color-scheme="slate"] .decision-card {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+[data-md-color-scheme="slate"] .feedback-stat {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+[data-md-color-scheme="slate"] .wizard-progress {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+/* === Banner CTA Berenice (en index) === */
+
+.berenice-banner {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  background: linear-gradient(135deg, rgba(0, 137, 123, 0.10) 0%, rgba(69, 39, 160, 0.08) 100%);
+  border: 1px solid rgba(0, 137, 123, 0.3);
+  border-left: 5px solid #00897b;
+  border-radius: 0.6rem;
+  padding: 1.25rem 1.5rem;
+  margin: 1rem 0 2rem 0;
+  flex-wrap: wrap;
+}
+
+.berenice-banner-icon {
+  font-size: 3rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.berenice-banner-body {
+  flex: 1;
+  min-width: 240px;
+}
+
+.berenice-banner-body p {
+  margin: 0.15rem 0 !important;
+}
+
+.berenice-banner-body p:first-child {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #00695c;
+  line-height: 1.25;
+}
+
+.berenice-banner-body p:last-child {
+  font-size: 0.92rem;
+  color: var(--md-default-fg-color);
+  line-height: 1.5;
+  opacity: 0.85;
+}
+
+.berenice-banner-cta {
+  flex-shrink: 0;
+}
+
+.berenice-banner-cta .md-button {
+  white-space: nowrap;
+  font-weight: 700;
+}
+
+[data-md-color-scheme="slate"] .berenice-banner {
+  background: linear-gradient(135deg, rgba(0, 137, 123, 0.18) 0%, rgba(149, 117, 205, 0.12) 100%);
+  border-color: rgba(0, 137, 123, 0.4);
+}
+
+[data-md-color-scheme="slate"] .berenice-banner-body p:first-child {
+  color: #4db6ac;
+}
+
+@media (max-width: 768px) {
+  .berenice-banner {
+    flex-direction: column;
+    text-align: center;
+  }
+  .berenice-banner-cta {
+    width: 100%;
+  }
+}
